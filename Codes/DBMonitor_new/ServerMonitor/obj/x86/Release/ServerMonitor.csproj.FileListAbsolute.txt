@@ -1,0 +1,6 @@
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\bin\Release\ServerMonitor.exe
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\bin\Release\ServerMonitor.pdb
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\bin\Release\Oracle.DataAccess.dll
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\obj\x86\Release\ResolveAssemblyReference.cache
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\obj\x86\Release\ServerMonitor.exe
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\obj\x86\Release\ServerMonitor.pdb

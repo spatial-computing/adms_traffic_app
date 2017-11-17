@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/mta/!svn/ver/1/BaseOutputAdapter
+END
+BaseOutputAdapter.cd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mta/!svn/ver/1/BaseOutputAdapter/BaseOutputAdapter.cd
+END
+XMLOutputElements.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mta/!svn/ver/1/BaseOutputAdapter/XMLOutputElements.cs
+END
+BaseOutputAdapter.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mta/!svn/ver/1/BaseOutputAdapter/BaseOutputAdapter.csproj
+END

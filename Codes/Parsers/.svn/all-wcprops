@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/mta/!svn/ver/1/Parsers
+END
+RampParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/mta/!svn/ver/1/Parsers/RampParser.cs
+END
+FreewayParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mta/!svn/ver/1/Parsers/FreewayParser.cs
+END
+ArterialParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mta/!svn/ver/1/Parsers/ArterialParser.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/mta/!svn/ver/1/Parsers/app.config
+END
+BusInventoryParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mta/!svn/ver/1/Parsers/BusInventoryParser.cs
+END
+BaseFileParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mta/!svn/ver/1/Parsers/BaseFileParser.cs
+END
+TravelTimeParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mta/!svn/ver/1/Parsers/TravelTimeParser.cs
+END
+D7EventParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mta/!svn/ver/1/Parsers/D7EventParser.cs
+END
+CompilerInterface.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mta/!svn/ver/1/Parsers/CompilerInterface.cs
+END
+FreewayInventoryParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mta/!svn/ver/1/Parsers/FreewayInventoryParser.cs
+END
+EventParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/mta/!svn/ver/1/Parsers/EventParser.cs
+END
+travelLinks.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/mta/!svn/ver/1/Parsers/travelLinks.cs
+END
+BusParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/mta/!svn/ver/1/Parsers/BusParser.cs
+END
+RailRoute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/mta/!svn/ver/1/Parsers/RailRoute.cs
+END
+RawFileParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mta/!svn/ver/1/Parsers/RawFileParser.cs
+END
+TravelTimeInventoryParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mta/!svn/ver/1/Parsers/TravelTimeInventoryParser.cs
+END
+Sensor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/mta/!svn/ver/1/Parsers/Sensor.cs
+END
+Parsers.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/mta/!svn/ver/1/Parsers/Parsers.csproj
+END
+XMLUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/mta/!svn/ver/1/Parsers/XMLUtils.cs
+END
+ParserFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mta/!svn/ver/1/Parsers/ParserFactory.cs
+END
+CHPEventParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mta/!svn/ver/1/Parsers/CHPEventParser.cs
+END
+RampInventoryParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mta/!svn/ver/1/Parsers/RampInventoryParser.cs
+END
+RegionalLAEventParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mta/!svn/ver/1/Parsers/RegionalLAEventParser.cs
+END
+RampMeter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/mta/!svn/ver/1/Parsers/RampMeter.cs
+END
+ArterialInventoryParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mta/!svn/ver/1/Parsers/ArterialInventoryParser.cs
+END
+Parsers.cd
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/mta/!svn/ver/1/Parsers/Parsers.cd
+END
+RailParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/mta/!svn/ver/1/Parsers/RailParser.cs
+END
+RailInventory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mta/!svn/ver/1/Parsers/RailInventory.cs
+END
+BusRoute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/mta/!svn/ver/1/Parsers/BusRoute.cs
+END
+RIITSDataTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mta/!svn/ver/1/Parsers/RIITSDataTypes.cs
+END
+InventoryParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mta/!svn/ver/1/Parsers/InventoryParser.cs
+END

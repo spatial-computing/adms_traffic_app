@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/mta/!svn/ver/1/EventTypes
+END
+EventReading.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mta/!svn/ver/1/EventTypes/EventReading.cs
+END
+TrafficBusGPSReading.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mta/!svn/ver/1/EventTypes/TrafficBusGPSReading.cs
+END
+EventTypes.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mta/!svn/ver/1/EventTypes/EventTypes.csproj.user
+END
+EventTypes.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mta/!svn/ver/1/EventTypes/EventTypes.csproj
+END
+TrafficSensorReading.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mta/!svn/ver/1/EventTypes/TrafficSensorReading.cs
+END
+OutputTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mta/!svn/ver/1/EventTypes/OutputTypes.cs
+END
+TrafficTravelTimeReading.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mta/!svn/ver/1/EventTypes/TrafficTravelTimeReading.cs
+END
+Enums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/mta/!svn/ver/1/EventTypes/Enums.cs
+END
+EventTypes.cd
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mta/!svn/ver/1/EventTypes/EventTypes.cd
+END
+TrafficRampReading.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mta/!svn/ver/1/EventTypes/TrafficRampReading.cs
+END
+TrafficRailGPSReading.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mta/!svn/ver/1/EventTypes/TrafficRailGPSReading.cs
+END

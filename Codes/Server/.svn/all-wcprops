@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/mta/!svn/ver/1/Server
+END
+StreamUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/mta/!svn/ver/1/Server/StreamUtils.cs
+END
+SIServers.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mta/!svn/ver/1/Server/SIServers.csproj.user
+END
+ExplicitServer_azure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mta/!svn/ver/1/Server/ExplicitServer_azure.cs
+END
+ExplicitServer_oracle_only.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mta/!svn/ver/1/Server/ExplicitServer_oracle_only.cs
+END
+QueryStrings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/mta/!svn/ver/1/Server/QueryStrings.cs
+END
+SIServers.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mta/!svn/ver/1/Server/SIServers.csproj
+END
+InputConfigUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mta/!svn/ver/1/Server/InputConfigUtils.cs
+END
+QueryUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/mta/!svn/ver/1/Server/QueryUtils.cs
+END
+OutputConfigUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mta/!svn/ver/1/Server/OutputConfigUtils.cs
+END
+Copy of ExplicitServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mta/!svn/ver/1/Server/Copy%20of%20ExplicitServer.cs
+END
+ExplicitServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mta/!svn/ver/1/Server/ExplicitServer.cs
+END

@@ -1,0 +1,82 @@
+﻿/**
+ * Created by Bei(Penny) Pan (beipan@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 04/18/2011
+ */
+
+/**
+ * Updated by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Purpose: Added the Azure Lookup Table
+ * Date: 06/09/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using EventTypes;
+
+using OutputTypes;
+using Parsers;
+using Utils;
+
+namespace MyMemory
+{
+    public abstract class LookupRampMeter : LookupTable<RampOutputElement>
+    {
+        private static BootUp memory = BootUp.GetInstance();
+        public override Object GetRecord(RampOutputElement ev, string agency)
+        {
+            RampMeter meter = new RampMeter(ev.rampId,0,0,"",0,"","",0,0,"",0, agency);
+            //RampMeter meter = memory.GetRampMeterInfo(ev.rampId);
+            //if (meter == null)
+            //    return null;
+
+            var values = GetFields(meter, ev);
+
+            return values;
+        }
+
+        protected abstract Object GetFields(RampMeter br, RampOutputElement ev);
+    }
+
+
+    public class LookupRampMeterDB : LookupRampMeter
+    {
+        protected override Object GetFields(RampMeter br, RampOutputElement ev)
+        {
+            return new List<Object>
+                                 {
+                                     BootUp.maxRampMeterConfigID, //ev.ConfigId,
+                                    ev.StartTime.LocalDateTime.ToString("yyyyMMdd HH:mm:ss"),
+                                    ev.rampId,
+                                    ev.MSId,
+                                    ev.device_status,
+                                    ev.meter_status,
+                                    ev.ramp_meter_control_type,
+                                    ev.meter_rate,
+                                    ev.Occupancy,
+                                   (int) Utilities.KMH2MPH(ev.Speed),
+                                    ev.Volume,
+                                    ev.link_ids,
+                                    ev.dector_types,
+                                    ev.occupancies,
+                                    ev.speeds,
+                                    ev.volumes,
+                                    ev.link_statuses//,
+                                   // br.Agency
+                                 };
+        }
+    }
+
+    public class LookUpRampMeterAzureTable : LookupRampMeter
+    {
+        protected override object GetFields(RampMeter br, RampOutputElement ev)
+        {
+            return new RampEntityTuple(br, ev);
+
+        }
+    }
+
+}

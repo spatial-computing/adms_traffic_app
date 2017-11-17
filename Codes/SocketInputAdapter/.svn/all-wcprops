@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/mta/!svn/ver/1/SocketInputAdapter
+END
+SocketInputConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mta/!svn/ver/1/SocketInputAdapter/SocketInputConfig.cs
+END
+SocketInputFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mta/!svn/ver/1/SocketInputAdapter/SocketInputFactory.cs
+END
+SocketInputAdapter.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mta/!svn/ver/1/SocketInputAdapter/SocketInputAdapter.csproj.user
+END
+SocketPointInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mta/!svn/ver/1/SocketInputAdapter/SocketPointInput.cs
+END
+SocketInputAdapter.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mta/!svn/ver/1/SocketInputAdapter/SocketInputAdapter.csproj
+END

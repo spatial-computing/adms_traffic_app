@@ -1,0 +1,190 @@
+﻿/**
+ * Created by Bei(Penny) Pan (beipan@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Purpose: Move some Bootup Functions to this class
+ * Date: 04/18/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Data.Odbc;
+using System.Data.OleDb;
+using System.Globalization;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.Threading;
+using MediaWriters;
+using Microsoft.SqlServer.Types;
+using Parsers;
+using Utils;
+
+namespace MyMemory
+{
+    public class BootUpFunctions
+    {
+        public static Dictionary<string, Sensor> FindDiff(Dictionary<string, Sensor> current, Dictionary<string, Sensor> recent)
+        {
+            Dictionary<string, Sensor> changedValues = new Dictionary<string, Sensor>();
+            if (current.Count == 0) // first call to this function
+                return recent;
+
+            foreach (KeyValuePair<string, Sensor> pair in recent)
+            {
+                Sensor newValue = pair.Value;
+                Sensor previousValue = null;
+
+                current.TryGetValue(pair.Key, out previousValue);
+                if (previousValue == null)
+                    changedValues.Add(pair.Key, newValue);
+                else
+                {
+                    if (!newValue.AllFieldsEqual(previousValue))
+                        changedValues.Add(pair.Key, newValue);
+                }
+            }
+            return changedValues;
+        }
+
+        public static Dictionary<int, BusRoute> FindDiff(Dictionary<int, BusRoute> current, Dictionary<int, BusRoute> recent)
+        {
+            Dictionary<int, BusRoute> changedValues = new Dictionary<int, BusRoute>();
+            if (current.Count == 0) // first call to this function
+                return recent;
+
+            foreach (KeyValuePair<int, BusRoute> pair in recent)
+            {
+                BusRoute newValue = pair.Value;
+                BusRoute previousValue = null;
+
+                current.TryGetValue(pair.Key, out previousValue);
+                if (previousValue == null)
+                    changedValues.Add(pair.Key, newValue);
+                else
+                {
+                    if (!newValue.AllFieldsEqual(previousValue))
+                        changedValues.Add(pair.Key, newValue);
+                }
+            }
+            return changedValues;
+        }
+
+        public static Dictionary<int, RailRoute> FindDiff(Dictionary<int, RailRoute> current, Dictionary<int, RailRoute> recent)
+        {
+            Dictionary<int, RailRoute> changedValues = new Dictionary<int, RailRoute>();
+            if (current.Count == 0) // first call to this function
+                return recent;
+
+            foreach (KeyValuePair<int, RailRoute> pair in recent)
+            {
+                RailRoute newValue = pair.Value;
+                RailRoute previousValue = null;
+
+                current.TryGetValue(pair.Key, out previousValue);
+                if (previousValue == null)
+                    changedValues.Add(pair.Key, newValue);
+                else
+                {
+                    if (!newValue.AllFieldsEqual(previousValue))
+                        changedValues.Add(pair.Key, newValue);
+                }
+            }
+            return changedValues;
+        }
+
+        public static Dictionary<int, RampMeter> FindDiff(Dictionary<int, RampMeter> current, Dictionary<int, RampMeter> recent)
+        {
+            Dictionary<int, RampMeter> changedValues = new Dictionary<int, RampMeter>();
+            if (current.Count == 0) // first call to this function
+                return recent;
+
+            foreach (KeyValuePair<int, RampMeter> pair in recent)
+            {
+                RampMeter newValue = pair.Value;
+                RampMeter previousValue = null;
+
+                current.TryGetValue(pair.Key, out previousValue);
+                if (previousValue == null)
+                    changedValues.Add(pair.Key, newValue);
+                else
+                {
+                    if (!newValue.AllFieldsEqual(previousValue))
+                        changedValues.Add(pair.Key, newValue);
+                }
+            }
+            return changedValues;
+        }
+
+        public static Dictionary<int, travelLinks> FindDiff(Dictionary<int, travelLinks> current, Dictionary<int, travelLinks> recent)
+        {
+            Dictionary<int, travelLinks> changedValues = new Dictionary<int, travelLinks>();
+            if (current.Count == 0) // first call to this function
+                return recent;
+
+            foreach (KeyValuePair<int, travelLinks> pair in recent)
+            {
+                travelLinks newValue = pair.Value;
+                travelLinks previousValue = null;
+
+                current.TryGetValue(pair.Key, out previousValue);
+                if (previousValue == null)
+                    changedValues.Add(pair.Key, newValue);
+                else
+                {
+                    if (!newValue.AllFieldsEqual(previousValue))
+                        changedValues.Add(pair.Key, newValue);
+                }
+            }
+            return changedValues;
+        }
+
+        public static Dictionary<int, CmsDevice> FindDiff(Dictionary<int, CmsDevice> current, Dictionary<int, CmsDevice> recent)
+        {
+            Dictionary<int, CmsDevice> changedValues = new Dictionary<int, CmsDevice>();
+            if (current.Count == 0) // first call to this function
+                return recent;
+
+            foreach (KeyValuePair<int, CmsDevice> pair in recent)
+            {
+                CmsDevice newValue = pair.Value;
+                CmsDevice previousValue = null;
+
+                current.TryGetValue(pair.Key, out previousValue);
+                if (previousValue == null)
+                    changedValues.Add(pair.Key, newValue);
+                else
+                {
+                    if (!newValue.AllFieldsEqual(previousValue))
+                        changedValues.Add(pair.Key, newValue);
+                }
+            }
+            return changedValues;
+        }
+
+    }
+
+    public class UpdateList<T>
+    {
+        public static void UpdateCurrentList(Dictionary<int, T> current, Dictionary<int, T> difList)
+        {
+            foreach (KeyValuePair<int, T> changedValue in difList)
+            {
+                if (!current.ContainsKey(changedValue.Key))
+                    current.Add(changedValue.Key, changedValue.Value);
+
+            }
+        }
+    }
+
+    public class UpdateSensorList<T>
+    {
+        public static void UpdateCurrentList(Dictionary<string, T> current, Dictionary<string, T> difList)
+        {
+            foreach (KeyValuePair<string, T> changedValue in difList)
+            {
+                if (!current.ContainsKey(changedValue.Key))
+                    current.Add(changedValue.Key, changedValue.Value);
+
+            }
+        }
+    }
+}

@@ -1,0 +1,107 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 06/08/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using EventTypes;
+using Microsoft.ComplexEventProcessing;
+using Microsoft.WindowsAzure.StorageClient;
+using OutputTypes;
+using Parsers;
+using Utils;
+
+namespace MyMemory
+{
+    public class BusGPSEntityTuple : TableServiceEntity
+    {
+        public BusGPSEntityTuple ()
+            : base()
+        {
+        }
+
+        private const string DELIMITER = "-";
+       
+        public int configID { get; set; }
+        public string agency { get; set; }
+        private DateTime datetime { get; set; }
+        public long iDateTime { get; set; }
+        public int BusId{ get; set; }
+        public int LineId{ get; set; }
+        public int RunId{ get; set; }
+        public int RouteId{ get; set; }
+        public String RouteDes{ get; set; }
+        public int Direction{ get; set; }
+        public String Longitude{ get; set; }
+        public String Latitude{ get; set; }
+        public DateTime locationTime { get; set; }
+        public int Scheduled_dev{ get; set; }
+        public int Arrival_nextTP{ get; set; }
+        public String Next_location{ get; set; }
+        public int Timepoint{ get; set; }
+
+        public BusGPSEntityTuple(BusRoute sensor, BusGPSOutputElement ev)
+        {
+            
+            configID = BootUp.maxBusConfigID;
+            agency = sensor.Agency;
+            datetime = ev.StartTime.LocalDateTime;
+            iDateTime = Int64.Parse(datetime.ToString("yyyyMMddHHmmss"));
+
+            BusId= ev.busId;
+            LineId = ev.lineId;
+            RunId = ev.runId;
+            RouteId = ev.routeId;
+            RouteDes= ev.routeDes;
+            Direction = ev.direction;
+            Longitude = ev.Longitude;
+            Latitude = ev.Latitude;
+            // Jalal: Penny, you should parse the date as DateTime, not string. please do it when creating the event.
+            locationTime= DateTime.ParseExact(ev.Location_time, "MM/dd/yy hh:mm tt", new CultureInfo(Constants.GetConfigurationFileCulture()), DateTimeStyles.None);
+            
+            Scheduled_dev = ev.scheduled_dev;
+            Arrival_nextTP = ev.arrival_nextTP;
+            Next_location = ev.next_location;
+            Timepoint = ev.timepoint;
+
+            PartitionKey = CalcPartition();
+            RowKey = CalcRowKey();
+        }
+
+        //private string CalcPartition()
+        //{
+        //    return BusId + DELIMITER+ datetime.ToString("yyyyMMdd") + DELIMITER + agency; // + DELIMITER;//+ Type;
+        //}
+
+        //private string CalcRowKey()
+        //{
+        //    return  datetime.ToString("HHmmss");
+        //}
+        private string CalcPartition()
+        {
+            return locationTime.ToString("yyyyMMdd") + DELIMITER + agency;//+ Type;
+        }
+
+        public static string CalcPartition(DateTime datetime, string agency, string type)
+        {
+            return datetime.ToString("yyyyMM") + DELIMITER + agency + DELIMITER + type;
+        }
+
+        public static string CalcRowKey(int sensID, DateTime datetime)
+        {
+            return sensID + datetime.ToString("ddHHmmss");
+        }
+
+        private string CalcRowKey()
+        {
+            //return BusId + DELIMITER + LineId+ DELIMITER+  datetime.ToString("HHmmss");
+            //return BusId + DELIMITER + datetime.ToString("HHmmss");
+            return BusId + DELIMITER + locationTime.ToString("HHmmss");
+        }
+    }
+}

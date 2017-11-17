@@ -1,0 +1,81 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 03/22/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using EventTypes;
+using Microsoft.ComplexEventProcessing;
+using Microsoft.WindowsAzure.StorageClient;
+using OutputTypes;
+using Parsers;
+
+namespace MyMemory
+{
+    public class SensorEntityTuple : TableServiceEntity
+    {
+        public SensorEntityTuple()
+            : base()
+        {
+        }
+
+        private const string DELIMITER = "-";
+        //protected abstract string Type { get; set; }
+        public int configID { get; set; }
+        public string agency { get; set; }
+        private DateTime datetime { get; set; }
+        public long iDateTime { get; set; }
+        public string sensorID { get; set; }
+        public int occupancy { get; set; }
+        public int speed { get; set; }
+        public int volume { get; set; }
+        public int hovSpeed { get; set; }
+        public int faultyIndicator { get; set; }
+
+        public SensorEntityTuple(Sensor sensor, SensorSpeedOutputElement ev)
+        {
+            configID = BootUp.maxArterialConfigID;
+            datetime = ev.StartTime.LocalDateTime;
+            iDateTime = Int64.Parse(datetime.ToString("yyyyMMddHHmmss"));
+            sensorID = sensor.ID;
+            occupancy = ev.Occupancy;
+            speed = ev.Speed;
+            volume = ev.Volume;
+            hovSpeed = ev.Hovspeed;
+            faultyIndicator = GetFaulty(ev.Link_Status);
+            agency = sensor.Agency;
+            //PartitionKey = CalcPartition(sensorID,datetime,agency);
+            PartitionKey = CalcPartition();
+            
+            //RowKey = CalcRowKey(sensorID,datetime);
+            RowKey = CalcRowKey();
+            
+        }
+
+        private string CalcPartition()
+        {
+            //return sensorID+ DELIMITER+ datetime.ToString("yyyyMM") + DELIMITER + agency + DELIMITER;
+            return datetime.ToString("yyyyMMdd") + DELIMITER + agency ;
+        }
+
+       
+
+        private  string CalcRowKey()
+        {
+            //return sensID+ dTime.ToString("HHmmss");
+            return sensorID + DELIMITER+ datetime.ToString("HHmmss");
+            //return sensorID + datetime.ToString("ddHHmmss");
+        }
+
+        private static int GetFaulty(string link_status)
+        {
+            if (link_status.CompareTo("OK") == 0)
+                return 0;
+            return 1;
+        }
+    }
+}

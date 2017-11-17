@@ -1,0 +1,65 @@
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\Parsers\bin\Debug\Parsers.dll.config
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\Parsers\bin\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\Parsers\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\Parsers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\Parsers\obj\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\Parsers\obj\Debug\Parsers.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\Parsers\bin\Debug\Parsers.dll.config
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\Parsers\bin\Debug\Parsers.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\Parsers\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\Parsers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\Parsers\obj\Debug\Parsers.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\Parsers\obj\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\Parsers\bin\Debug\Parsers.dll.config
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\Parsers\bin\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\Parsers\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\Parsers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\Parsers\obj\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\Parsers\obj\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\Parsers\bin\Debug\Parsers.dll.config
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\Parsers\bin\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\Parsers\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\Parsers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\Parsers\obj\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\Parsers\obj\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\Parsers\bin\Debug\Parsers.dll.config
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\Parsers\bin\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\Parsers\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\Parsers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\Parsers\obj\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\Parsers\obj\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\Parsers\bin\Debug\Parsers.dll.config
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\Parsers\bin\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\Parsers\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\Parsers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\Parsers\obj\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\Parsers\obj\Debug\Parsers.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\Parsers\bin\Debug\Parsers.dll.config
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\Parsers\bin\Debug\Parsers.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\Parsers\bin\Debug\Parsers.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\Parsers\obj\Debug\ResolveAssemblyReference.cache
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\Parsers\obj\Debug\Parsers.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\Parsers\obj\Debug\Parsers.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\Parsers\bin\Debug\Parsers.dll.config
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\Parsers\bin\Debug\Parsers.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\Parsers\bin\Debug\Parsers.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\Parsers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\Parsers\obj\Debug\Parsers.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\Parsers\obj\Debug\Parsers.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\Parsers\bin\Debug\Parsers.dll.config
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\Parsers\bin\Debug\Parsers.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\Parsers\bin\Debug\Parsers.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\Parsers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\Parsers\obj\Debug\Parsers.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\Parsers\obj\Debug\Parsers.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\bin\Debug\Parsers.dll.config
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\bin\Debug\Parsers.dll
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\bin\Debug\Parsers.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\bin\Debug\EventTypes.dll
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\bin\Debug\ExceptionReporter.dll
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\bin\Debug\EventTypes.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\bin\Debug\ExceptionReporter.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\obj\Debug\Parsers.dll
+C:\Users\StreamInsight\Desktop\mta_svn\Parsers\obj\Debug\Parsers.pdb

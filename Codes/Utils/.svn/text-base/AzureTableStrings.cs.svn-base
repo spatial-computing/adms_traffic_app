@@ -1,0 +1,37 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 03/22/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Utils
+{
+    public class AzureTableStrings
+    {
+        public static readonly String FreewayDataTableName = "highwaycongestiondatajj2";
+        public static readonly String FreewayConfigTableName = "highwaycongestionconfigjj2";
+
+        public static readonly String ArterialDataTableName = "arterialcongestiondatajj2";
+        public static readonly String ArterialConfigTableName = "arterialcongestionconfigjj2";
+
+        public static readonly String BusGPSDataTableName = "busgpsdata";
+        public static readonly String BusRoutesTableName = "busroutes";
+
+        public static readonly String RailGPSDataTableName = "railgpsdata";
+        public static readonly String RailRoutesTableName = "railroutes";
+
+        public static readonly String TravelTimeTableName = "traveltimedata";
+        public static readonly String TravelTimeConfigTableName = "traveltimeconfig";
+        
+        public static readonly String RampDataTableName = "rampdata";
+        public static readonly String RampMeterTableName = "rampconfig";
+
+        public static readonly String EventTableName = "eventdata";
+        public static readonly String EventConfigTableName = "eventconfig";
+    }
+}

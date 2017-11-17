@@ -1,0 +1,21 @@
+<Modules>
+  <Module PersistentId="0A66F943-9756-4995-8EE7-8159CF8A3CEF" ModuleId="TrafficApp" />
+  <Module PersistentId="DB854CCA-2A72-4D77-B565-EC456557B443" ModuleId="UDOs" />
+  <Module PersistentId="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32" ModuleId="Server" />
+  <Module PersistentId="DF182443-0852-4CAB-9389-79E93374FA33" ModuleId="Utils" />
+  <Module PersistentId="A47F0D5F-5B34-44D2-87D8-05904E578283" ModuleId="SocketInputAdapter" />
+  <Module PersistentId="F2A49BB2-41B2-44FC-B233-9FFD1996B0C9" ModuleId="XMLOutputAdapter" />
+  <Module PersistentId="80B7A50F-242C-414C-A9FD-731F8A5E020A" ModuleId="EventTypes" />
+  <Module PersistentId="510DF9CD-6D49-4F83-9D0B-A37B7472933E" ModuleId="WebApplication1" />
+  <Module PersistentId="EA234AB9-57A5-46A4-A5E1-079B041D2440" ModuleId="ADMS_1" />
+  <Module PersistentId="850E458C-36FD-4EE5-A05D-18D83A6D1465" ModuleId="WSDLInputAdapters" />
+  <Module PersistentId="2E5504C8-78D9-4A17-9F93-322D295DD34A" ModuleId="BaseTrafficInputAdapters" />
+  <Module PersistentId="4C44FEF7-7E89-4EF9-8B02-9042722DBBFE" ModuleId="BaseOutputAdapter" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="mscorlib" />
+  <Module PersistentId="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6" ModuleId="Parsers" />
+  <Module PersistentId="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC" ModuleId="MyMemory" />
+  <Module PersistentId="4E1FB9A8-4F2E-4801-A12A-BE7685237D8D" ModuleId="MediaWriters" />
+  <Module PersistentId="977A8769-875D-4D77-AFD6-AD874889322C" ModuleId="DBServices" />
+  <Module PersistentId="5EB5528A-C15D-4798-BE64-9FD936A10716" ModuleId="OutputTypes" />
+  <Module PersistentId="6EBE73FC-EC03-456C-81B8-5778D8882DA0" ModuleId="CustomOracleGeoType" />
+</Modules>

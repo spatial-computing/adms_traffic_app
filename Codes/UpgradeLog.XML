@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TrafficApp">
+</Property><Property Name="Solution File" Value="C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\TrafficApp.sln">
+</Property><Property Name="Date" Value="Tuesday, July 20, 2010">
+</Property><Property Name="Time" Value="11:53 AM">
+</Property></Properties><Event ErrorLevel="0" Project="TrafficApp" Source="TrafficApp\TrafficApp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TrafficApp" Source="TrafficApp\TrafficApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UDOs" Source="UDOs\UDOs.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UDOs" Source="UDOs\UDOs.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SIServers" Source="Server\SIServers.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SIServers" Source="Server\SIServers.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Utils" Source="Utils\Utils.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Utils" Source="Utils\Utils.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SocketInputAdapter" Source="SocketInputAdapter\SocketInputAdapter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SocketInputAdapter" Source="SocketInputAdapter\SocketInputAdapter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XMLOutputAdapter" Source="XMLOutputAdapter\XMLOutputAdapter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XMLOutputAdapter" Source="XMLOutputAdapter\XMLOutputAdapter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EventTypes" Source="EventTypes\EventTypes.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EventTypes" Source="EventTypes\EventTypes.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WebApplication1" Source="WebApplication1\WebApplication1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WebApplication1" Source="WebApplication1\WebApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TrafficApp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TrafficApp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SocketInputAdapter" Source="SocketInputAdapter\SocketInputAdapter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="XMLOutputAdapter" Source="XMLOutputAdapter\XMLOutputAdapter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TrafficApp" Source="TrafficApp\TrafficApp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="UDOs" Source="UDOs\UDOs.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SIServers" Source="Server\SIServers.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Utils" Source="Utils\Utils.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="EventTypes" Source="EventTypes\EventTypes.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WebApplication1" Source="WebApplication1\WebApplication1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

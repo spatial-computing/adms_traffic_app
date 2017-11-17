@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mta/!svn/ver/1/BaseTrafficInputAdapters
+END
+BaseTrafficInputAdapters.cd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mta/!svn/ver/1/BaseTrafficInputAdapters/BaseTrafficInputAdapters.cd
+END
+RIITSInputConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mta/!svn/ver/1/BaseTrafficInputAdapters/RIITSInputConfig.cs
+END
+RIITSPointInputAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mta/!svn/ver/1/BaseTrafficInputAdapters/RIITSPointInputAdapter.cs
+END
+BaseTrafficInputAdapters.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mta/!svn/ver/1/BaseTrafficInputAdapters/BaseTrafficInputAdapters.csproj
+END

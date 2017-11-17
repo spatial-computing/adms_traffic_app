@@ -1,0 +1,305 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 03/22/2011
+ */
+
+/**
+ * Updated by Bei (Penny) Pan (beipan@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Added the input config for Bus, Rail, RMS, TravelTime
+ * Date: 04/18/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using BaseTrafficInputAdapters;
+using Parsers;
+using SocketInputAdapter;
+using Utils;
+
+namespace SIServers
+{
+    internal class InputConfigUtils
+    {
+        //depricated
+        public static RIITSInputConfig GetRawStingInputConfig()
+        {
+            RIITSInputConfig result = GetSensorBaseInputConfig();
+            result.InputFieldOrders = new List<string>();
+            result.InputFieldOrders.Add("Str");
+            result.inputInterpretationType = ReadType.Raw;
+            result.inputDataType = RIITSDataTypes.Freeway;
+            return result;
+        }
+
+        public static RIITSInputConfig GetFreewayInputConfig(string agency)
+        {
+            RIITSInputConfig result = GetSensorBaseInputConfig();
+            result.inputDataType = RIITSDataTypes.Freeway;
+            result.RIITSAgency = agency;
+            result.inputInterpretationType = ReadType.Record;
+            result.InputFetchFreq = Constants.FreewayUpdateRate;
+
+            return result;
+        }
+
+        public static RIITSInputConfig GetArterialInputConfig(string agency)
+        {
+            RIITSInputConfig result = GetSensorBaseInputConfig();
+            result.inputDataType = RIITSDataTypes.Arterial;
+            result.RIITSAgency = agency;
+            result.inputInterpretationType = ReadType.Record;
+            result.InputFetchFreq = Constants.ArterialUpdateRate;
+            return result;
+        }
+
+        //public static RIITSInputConfig GetArterialInventoryInputConfig(string agency)
+        //{
+        //    RIITSInputConfig result = GetSensorBaseInputConfig();
+        //    result.inputDataType = RIITSDataTypes.ArterialInventory;
+        //    result.RIITSAgency = agency;
+        //    result.inputInterpretationType = ReadType.Record;
+        //    result.InputFetchFreq = Constants.ArterialInventoryUpdateRate;
+        //    return result;
+        //}
+
+        //public static RIITSInputConfig GetFreewayInventoryInputConfig(string agency)
+        //{
+        //    RIITSInputConfig result = GetSensorBaseInputConfig();
+        //    result.inputDataType = RIITSDataTypes.FreewayInventory;
+        //    result.RIITSAgency = agency;
+        //    result.inputInterpretationType = ReadType.Record;
+        //    result.InputFetchFreq = Constants.FreewayInventoryUpdateRate;
+        //    return result;
+        //}
+
+        public static RIITSInputConfig GetBusInputConfig(string agency)
+        {
+            RIITSInputConfig result = new RIITSInputConfig
+            {
+                //Delimiter = ',',
+                CultureName = "en-US",
+                InputFieldOrders =
+                    new List<string>
+                                                  {
+                                                        "busId",
+                                                        "lineId",
+                                                        "runId",
+                                                        "routeId",
+                                                        "routeDes",
+                                                        "direction",
+                                                        "Longitude",
+                                                        "Latitude",
+                                                        "Location_time",
+                                                        "scheduled_dev",
+                                                        "arrival_nextTP",
+                                                        "next_location",
+                                                        "timepoint"
+                                                  },
+            };
+            result.inputDataType = RIITSDataTypes.Bus;
+            result.RIITSAgency = agency;
+            result.inputInterpretationType = ReadType.Record;
+            result.InputFetchFreq = Constants.BusUpdateRate;
+            return result;
+        }
+
+        public static RIITSInputConfig GetRailInputConfig(string agency)
+        {
+            RIITSInputConfig result = new RIITSInputConfig
+            {
+                //Delimiter = ',',
+                CultureName = "en-US",
+                InputFieldOrders =
+                    new List<string>
+                                                  {
+                                                        "trainId",
+                                                        "lineId",
+                                                        "routeId",
+                                                        "routeDes",
+                                                        "destination",
+                                                        "offRoute",
+                                                        "direction",
+                                                        "Longitude",
+                                                        "Latitude",
+                                                        "Location_time",
+                                                        "scheduled_dev",
+                                                        "arrival_nextTP",
+                                                        "next_location",
+                                                        "timepoint"
+                                                  },
+            };
+            result.inputDataType = RIITSDataTypes.Rail;
+            result.RIITSAgency = agency;
+            result.inputInterpretationType = ReadType.Record;
+            result.InputFetchFreq = Constants.RailUpdateRate;
+            return result;
+        }
+
+        public static RIITSInputConfig GetRampInputConfig(string agency)
+        {
+            RIITSInputConfig result = new RIITSInputConfig
+            {
+                //Delimiter = ',',
+                CultureName = "en-US",
+                InputFieldOrders =
+                    new List<string>
+                                                  {
+                                                        "rampId",
+                                                        "MSId",
+                                                        "device_status",
+                                                        "meter_status",
+                                                        "ramp_meter_control_type",
+                                                        "meter_rate",
+                                                        "Occupancy",
+                                                        "Speed",
+                                                        "Volume",
+                                                        "link_ids",
+                                                        "dector_types",
+                                                        "occupancies",
+                                                        "speeds",
+                                                        "volumes",
+                                                        "link_statuses"
+                                                  },
+            };
+            result.inputDataType = RIITSDataTypes.Ramp;
+            result.RIITSAgency = agency;
+            result.inputInterpretationType = ReadType.Record;
+            result.InputFetchFreq = Constants.RampUpdateRate;
+            return result;
+        }
+
+        public static RIITSInputConfig GetTravelTimesInputConfig(string agency)
+        {
+            RIITSInputConfig result = new RIITSInputConfig
+            {
+                //Delimiter = ',',
+                CultureName = "en-US",
+                InputFieldOrders =
+                    new List<string>
+                                                  {
+                                                        "travelId", 
+                                                        "speed",
+                                                        "travelTime"
+                                                  },
+            };
+            result.inputDataType = RIITSDataTypes.Traveltimes;
+            result.RIITSAgency = agency;
+            result.inputInterpretationType = ReadType.Record;
+            result.InputFetchFreq = Constants.TravelTimeUpdateRate;
+            return result;
+        }
+
+
+        public static RIITSInputConfig GetEventInputConfig(string agency)
+        {
+            RIITSInputConfig result = new RIITSInputConfig()
+                                          {
+                                              CultureName = "en-US",
+                                              InputFieldOrders = new List<string>
+                                                                     {
+                                                                         "EventId",
+                                                                         "Agency",
+                                                                         "OnStreet",
+                                                                         "FromStreet",
+                                                                         "ToStreet",
+                                                                         "Latitude",
+                                                                         "Longitude",
+                                                                         "Direction",
+                                                                         "AdminCity",
+                                                                         "AdminPostmile",
+                                                                         "TypeEvent",
+                                                                         "Severity",
+                                                                         "Description",
+                                                                         "AffectedLaneCnt",
+                                                                         "AffectedLaneType",
+                                                                         "VecType9220",
+                                                                         "VecType9227",
+                                                                         "VecType9228",
+                                                                         "VecType9290",
+                                                                         "FatalityCnt",
+                                                                         "PossibleInjCnt",
+                                                                         "StartTime",
+                                                                         "ClearTime", // not part of all event types. 
+                                                                         "IssuingUser",
+                                                                         "ContactName",
+                                                                         "ContactPhone",
+                                                                         "HighwayPatrol",
+                                                                         "CountyFire",
+                                                                         "CountySheriff",
+                                                                         "FireDepartment",
+                                                                         "Ambulance",
+                                                                         "Coroner",
+                                                                         "Mait",
+                                                                         "Hazmat",
+                                                                         "FreewayServicePatrol",
+                                                                         "CaltransMaintenance",
+                                                                         "CaltransTMT",
+                                                                         "CountySheriffTSB",
+                                                                         "Other",
+                                                                         "OtherText",
+                                                                         "CommentInternalContent",
+                                                                         "CommentInternalText",
+                                                                         "CommentExternalContent",
+                                                                         "CommentExternalText",
+                                                                         "ActualStartTime", // not part of all event types. 
+                                                                         "ActualEndTime",   // not part of all event types. 
+                                                                         "EventStatus",
+
+                                                                     }
+                                          };
+            result.inputDataType = RIITSDataTypes.Event;
+            result.RIITSAgency = agency;
+            result.inputInterpretationType = ReadType.Record;
+            result.InputFetchFreq = Constants.EventUpdateRate;
+            return result;
+        }
+
+        public static RIITSInputConfig GetSensorBaseInputConfig()
+        {
+            var sensorInputConf = new RIITSInputConfig
+            {
+                CultureName = "en-US",
+                InputFieldOrders =
+                    new List<string>
+                                                  {
+                                                      "SensorId",
+                                                      "Occupancy",
+                                                      "Speed",
+                                                      "Volume",
+                                                      "HovSpeed",
+                                                      "LinkDataStatus"
+                                                  }
+            };
+            return sensorInputConf;
+        }
+
+        //depricated
+        public static SocketInputConfig GetSensorSocketInputConfig(RIITSDataTypes inputType)
+        {
+            var sensorInputConf = new SocketInputConfig
+            {
+                CultureName = "en-US",
+                InputFieldOrders =
+                    new List<string>
+                                                  {
+                                                      "SensorId",
+                                                      "Occupancy",
+                                                      "Speed",
+                                                      "Volume",
+                                                      "HovSpeed",
+                                                      "LinkDataStatus"
+                                                  },
+                ServerIP = "127.0.0.1",
+                ServerPort = 11111,
+                inputDataType = inputType,
+                inputInterpretationType = ReadType.Record
+            };
+
+            return sensorInputConf;
+        }
+    }
+}

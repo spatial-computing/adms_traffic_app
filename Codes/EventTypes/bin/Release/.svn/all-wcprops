@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/mta/!svn/ver/1/EventTypes/bin/Release
+END
+EventTypes.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mta/!svn/ver/1/EventTypes/bin/Release/EventTypes.dll
+END
+Microsoft.WindowsAzure.StorageClient.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mta/!svn/ver/1/EventTypes/bin/Release/Microsoft.WindowsAzure.StorageClient.dll
+END
+EventTypes.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mta/!svn/ver/1/EventTypes/bin/Release/EventTypes.pdb
+END

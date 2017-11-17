@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/mta/!svn/ver/1/Server/obj/Release
+END
+ResolveAssemblyReference.cache
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mta/!svn/ver/1/Server/obj/Release/ResolveAssemblyReference.cache
+END
+Server.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mta/!svn/ver/1/Server/obj/Release/Server.dll
+END
+Server.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mta/!svn/ver/1/Server/obj/Release/Server.pdb
+END
+SIServers.csproj.FileListAbsolute.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mta/!svn/ver/1/Server/obj/Release/SIServers.csproj.FileListAbsolute.txt
+END
+DesignTimeResolveAssemblyReferencesInput.cache
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mta/!svn/ver/1/Server/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+END

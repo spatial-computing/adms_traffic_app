@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/mta/!svn/ver/1/MediaWriters
+END
+ClassDiagram1.cd
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mta/!svn/ver/1/MediaWriters/ClassDiagram1.cd
+END
+FileMediaWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mta/!svn/ver/1/MediaWriters/FileMediaWriter.cs
+END
+MediaWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mta/!svn/ver/1/MediaWriters/MediaWriter.cs
+END
+SQLMediaWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mta/!svn/ver/1/MediaWriters/SQLMediaWriter.cs
+END
+AzureTableStorageMediaWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mta/!svn/ver/1/MediaWriters/AzureTableStorageMediaWriter.cs
+END
+OracleMediaWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mta/!svn/ver/1/MediaWriters/OracleMediaWriter.cs
+END
+OutputMediaConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mta/!svn/ver/1/MediaWriters/OutputMediaConfig.cs
+END
+MediaWriters.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mta/!svn/ver/1/MediaWriters/MediaWriters.csproj
+END

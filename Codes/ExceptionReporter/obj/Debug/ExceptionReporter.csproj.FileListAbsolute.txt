@@ -1,0 +1,8 @@
+C:\Users\StreamInsight\Desktop\mta_svn\ExceptionReporter\bin\Debug\ExceptionReporter.dll
+C:\Users\StreamInsight\Desktop\mta_svn\ExceptionReporter\bin\Debug\ExceptionReporter.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\ExceptionReporter\bin\Debug\EventTypes.dll
+C:\Users\StreamInsight\Desktop\mta_svn\ExceptionReporter\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\StreamInsight\Desktop\mta_svn\ExceptionReporter\bin\Debug\EventTypes.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\ExceptionReporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StreamInsight\Desktop\mta_svn\ExceptionReporter\obj\Debug\ExceptionReporter.dll
+C:\Users\StreamInsight\Desktop\mta_svn\ExceptionReporter\obj\Debug\ExceptionReporter.pdb

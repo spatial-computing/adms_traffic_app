@@ -1,0 +1,18 @@
+R# version: 5.1.3000.12
+assembly Microsoft.WindowsAzure.StorageClient, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Windows Azure SDK\v1.4\ref\Microsoft.WindowsAzure.StorageClient.dll mtime 2/28/2011 12:44:20 AM
+  file C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\Bin\Microsoft.WindowsAzure.StorageClient.dll mtime 2/28/2011 12:44:20 AM
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 5/20/2010 10:49:17 PM
+referenced assembly System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll mtime 6/10/2009 9:14:41 PM
+referenced assembly System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll mtime 6/10/2009 9:23:20 PM
+referenced assembly System.Data.Services.Client, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.Services.Client.dll mtime 3/19/2010 3:31:26 AM
+referenced assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll mtime 6/10/2009 9:23:18 PM
+referenced assembly System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.dll mtime 3/19/2010 3:31:26 AM
+referenced assembly System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll mtime 6/10/2009 9:14:45 PM

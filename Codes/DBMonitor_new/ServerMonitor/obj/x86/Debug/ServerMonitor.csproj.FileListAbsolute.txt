@@ -1,0 +1,12 @@
+D:\mta_svn_all_agencies\DBMonitor_new\DBMonitor_new\ServerMonitor\bin\Debug\ServerMonitor.exe
+D:\mta_svn_all_agencies\DBMonitor_new\DBMonitor_new\ServerMonitor\bin\Debug\ServerMonitor.pdb
+D:\mta_svn_all_agencies\DBMonitor_new\DBMonitor_new\ServerMonitor\bin\Debug\Oracle.DataAccess.dll
+D:\mta_svn_all_agencies\DBMonitor_new\DBMonitor_new\ServerMonitor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mta_svn_all_agencies\DBMonitor_new\DBMonitor_new\ServerMonitor\obj\x86\Debug\ServerMonitor.exe
+D:\mta_svn_all_agencies\DBMonitor_new\DBMonitor_new\ServerMonitor\obj\x86\Debug\ServerMonitor.pdb
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\obj\x86\Debug\ServerMonitor.exe
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\obj\x86\Debug\ServerMonitor.pdb
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\bin\Debug\ServerMonitor.exe
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\bin\Debug\ServerMonitor.pdb
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\bin\Debug\Oracle.DataAccess.dll
+D:\mta_svn_all_agencies\DBMonitor_new\ServerMonitor\obj\x86\Debug\ResolveAssemblyReference.cache

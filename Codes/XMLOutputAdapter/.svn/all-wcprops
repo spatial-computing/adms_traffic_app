@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/mta/!svn/ver/1/XMLOutputAdapter
+END
+XMLOutputAdapter.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XMLOutputAdapter.csproj
+END
+IOutputMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mta/!svn/ver/1/XMLOutputAdapter/IOutputMessage.cs
+END
+SocketPointFreewaySensorSpeedOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mta/!svn/ver/1/XMLOutputAdapter/SocketPointFreewaySensorSpeedOutput.cs
+END
+SocketPointArterialSensorSpeedOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mta/!svn/ver/1/XMLOutputAdapter/SocketPointArterialSensorSpeedOutput.cs
+END
+SQLOutputMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mta/!svn/ver/1/XMLOutputAdapter/SQLOutputMessage.cs
+END
+XMLOutputMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XMLOutputMessage.cs
+END
+XmlPointFreewaySensorSpeedOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XmlPointFreewaySensorSpeedOutput.cs
+END
+XMLOutputAdapter.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XMLOutputAdapter.csproj.user
+END
+XmlPointArterialSensorSpeedOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XmlPointArterialSensorSpeedOutput.cs
+END
+OracleOutputMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mta/!svn/ver/1/XMLOutputAdapter/OracleOutputMessage.cs
+END
+XMLPointOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XMLPointOutput.cs
+END
+OutputAdapterBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mta/!svn/ver/1/XMLOutputAdapter/OutputAdapterBase.cs
+END
+MessageConfigs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mta/!svn/ver/1/XMLOutputAdapter/MessageConfigs.cs
+END
+XmlPointPredictionSpeedOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XmlPointPredictionSpeedOutput.cs
+END
+SocketOutputFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mta/!svn/ver/1/XMLOutputAdapter/SocketOutputFactory.cs
+END
+XMLOutputAdapter.cd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XMLOutputAdapter.cd
+END
+XMLPointSensorSpeedOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XMLPointSensorSpeedOutput.cs
+END
+XMLPointAverageSpeedOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XMLPointAverageSpeedOutput.cs
+END
+XMLOutputFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mta/!svn/ver/1/XMLOutputAdapter/XMLOutputFactory.cs
+END
+AzureTableStorageOutputMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mta/!svn/ver/1/XMLOutputAdapter/AzureTableStorageOutputMessage.cs
+END

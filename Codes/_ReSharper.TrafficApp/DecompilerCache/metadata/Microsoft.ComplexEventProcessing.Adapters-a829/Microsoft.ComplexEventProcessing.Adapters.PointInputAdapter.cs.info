@@ -1,0 +1,21 @@
+R# version: 5.1.1753.4
+assembly Microsoft.ComplexEventProcessing.Adapters, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+  file C:\Program Files\Microsoft StreamInsight 1.0\Bin\Microsoft.ComplexEventProcessing.Adapters.dll mtime 6/17/2010 11:04:26 PM
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 5/21/2010 10:56:21 AM
+referenced assembly Microsoft.ComplexEventProcessing.Diagnostics, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+  file C:\Program Files\Microsoft StreamInsight 1.0\Bin\Microsoft.ComplexEventProcessing.Diagnostics.dll mtime 6/17/2010 11:04:24 PM
+referenced assembly Microsoft.ComplexEventProcessing, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+  file C:\Program Files\Microsoft StreamInsight 1.0\Bin\Microsoft.ComplexEventProcessing.dll mtime 6/17/2010 11:04:24 PM
+referenced assembly Microsoft.ComplexEventProcessing.Engine, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+  file C:\Program Files\Microsoft StreamInsight 1.0\Bin\Microsoft.ComplexEventProcessing.Engine.dll mtime 6/17/2010 11:04:24 PM
+referenced assembly System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll mtime 7/30/2008 6:40:48 AM
+referenced assembly System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Runtime.Serialization.dll mtime 3/18/2010 8:16:28 PM
+referenced assembly System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll mtime 3/30/2009 4:42:20 AM
+referenced assembly Microsoft.ComplexEventProcessing.Expressions, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+  file C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\Bin\Microsoft.ComplexEventProcessing.Expressions.dll mtime 1/7/2010 4:02:42 PM
+referenced assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll mtime 3/25/2010 11:53:26 AM

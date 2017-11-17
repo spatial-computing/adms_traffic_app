@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/mta/!svn/ver/1/MyMemory
+END
+RailRouteEntityTuple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mta/!svn/ver/1/MyMemory/RailRouteEntityTuple.cs
+END
+TravelLinkLookupTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mta/!svn/ver/1/MyMemory/TravelLinkLookupTable.cs
+END
+OracleDBServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mta/!svn/ver/1/MyMemory/OracleDBServices.cs
+END
+BusRouteEntityTuple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mta/!svn/ver/1/MyMemory/BusRouteEntityTuple.cs
+END
+SensorEntityTuple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mta/!svn/ver/1/MyMemory/SensorEntityTuple.cs
+END
+LookupTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mta/!svn/ver/1/MyMemory/LookupTable.cs
+END
+EventLookupTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mta/!svn/ver/1/MyMemory/EventLookupTable.cs
+END
+TravelTimeEntityTuple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mta/!svn/ver/1/MyMemory/TravelTimeEntityTuple.cs
+END
+RampMeterLookupTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mta/!svn/ver/1/MyMemory/RampMeterLookupTable.cs
+END
+MyMemory.cd
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/mta/!svn/ver/1/MyMemory/MyMemory.cd
+END
+BootUpFunctions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mta/!svn/ver/1/MyMemory/BootUpFunctions.cs
+END
+RampMeterEntityTuple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mta/!svn/ver/1/MyMemory/RampMeterEntityTuple.cs
+END
+FreewayLookupTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mta/!svn/ver/1/MyMemory/FreewayLookupTable.cs
+END
+ArterialLookupTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mta/!svn/ver/1/MyMemory/ArterialLookupTable.cs
+END
+SensorConfigEntityTuple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mta/!svn/ver/1/MyMemory/SensorConfigEntityTuple.cs
+END
+RampEntityTuple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mta/!svn/ver/1/MyMemory/RampEntityTuple.cs
+END
+RailRouteLookupTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mta/!svn/ver/1/MyMemory/RailRouteLookupTable.cs
+END
+RailGPSEntityTuple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mta/!svn/ver/1/MyMemory/RailGPSEntityTuple.cs
+END
+BootUp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/mta/!svn/ver/1/MyMemory/BootUp.cs
+END
+MyMemory.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mta/!svn/ver/1/MyMemory/MyMemory.csproj
+END
+SQLDBServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mta/!svn/ver/1/MyMemory/SQLDBServices.cs
+END
+TravelTimeConfigEntityTuple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mta/!svn/ver/1/MyMemory/TravelTimeConfigEntityTuple.cs
+END
+BusRouteLookupTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mta/!svn/ver/1/MyMemory/BusRouteLookupTable.cs
+END
+BusGPSEntityTuple.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mta/!svn/ver/1/MyMemory/BusGPSEntityTuple.cs
+END

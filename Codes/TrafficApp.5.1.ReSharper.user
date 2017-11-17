@@ -1,0 +1,1593 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F2A49BB2-41B2-44FC-B233-9FFD1996B0C9/f:SQLOutputMessage.cs" caret="1797" fromTop="23" />
+      <File id="E14CF541-10AF-4240-AF24-53449A05CE2B/f:ExceptionOracleWriter.cs" caret="2723" fromTop="0" />
+      <File id="F2A49BB2-41B2-44FC-B233-9FFD1996B0C9/f:OutputAdapterBase.cs" caret="15241" fromTop="16" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:CmsLookupTable.cs" caret="1205" fromTop="9" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:CmsParser.cs" caret="1766" fromTop="6" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/d:history/f:history.js" caret="0" fromTop="0" />
+      <File id="F2A49BB2-41B2-44FC-B233-9FFD1996B0C9/f:AzureTableStorageOutputMessage.cs" caret="394" fromTop="4" />
+      <File id="DF182443-0852-4CAB-9389-79E93374FA33/f:Constants.cs" caret="1634" fromTop="35" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BusGPSEntityTuple.cs" caret="1665" fromTop="16" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:CmsEntityTuple.cs" caret="1313" fromTop="2" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:BusParser.cs" caret="4179" fromTop="27" />
+      <File id="850E458C-36FD-4EE5-A05D-18D83A6D1465/f:WSDLPointInput.cs" caret="4291" fromTop="57" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:OutputConfigUtils.cs" caret="9124" fromTop="16" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:RIITSDataTypes.cs" caret="1175" fromTop="43" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:RegionalLAEventParser.cs" caret="20666" fromTop="32" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:EventLookupTable.cs" caret="763" fromTop="10" />
+      <File id="80B7A50F-242C-414C-A9FD-731F8A5E020A/f:OutputTypes.cs" caret="21255" fromTop="13" />
+      <File id="2E5504C8-78D9-4A17-9F93-322D295DD34A/f:RIITSPointInputAdapter.cs" caret="3953" fromTop="42" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="59286" fromTop="30" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:D7EventParser.cs" caret="11143" fromTop="0" />
+      <File id="0A66F943-9756-4995-8EE7-8159CF8A3CEF/f:Program.cs" caret="2997" fromTop="49" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:BaseFileParser.cs" caret="6003" fromTop="17" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BootUp.cs" caret="21936" fromTop="310" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:InventoryParser.cs" caret="2654" fromTop="44" />
+      <File id="E14CF541-10AF-4240-AF24-53449A05CE2B/f:ExceptionEmailReporter.cs" caret="1370" fromTop="4" />
+      <File id="4E1FB9A8-4F2E-4801-A12A-BE7685237D8D/f:AzureTableStorageMediaWriter.cs" caret="3632" fromTop="0" />
+      <File id="4E1FB9A8-4F2E-4801-A12A-BE7685237D8D/f:OracleMediaWriter.cs" caret="20402" fromTop="35" />
+      <File id="F2A49BB2-41B2-44FC-B233-9FFD1996B0C9/f:OracleOutputMessage.cs" caret="15808" fromTop="0" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:EventParser.cs" caret="0" fromTop="0" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:CHPEventParser.cs" caret="17531" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="85975" fromTop="30" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="63435" fromTop="40" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="10189" fromTop="0" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="64936" fromTop="58" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="73550" fromTop="58" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="59286" fromTop="30" />
+      <File id="0A66F943-9756-4995-8EE7-8159CF8A3CEF/f:Program.cs" caret="1985" fromTop="28" />
+      <File id="0A66F943-9756-4995-8EE7-8159CF8A3CEF/f:Program.cs" caret="2184" fromTop="27" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:InventoryParser.cs" caret="5189" fromTop="34" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BootUp.cs" caret="10135" fromTop="20" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BootUp.cs" caret="11859" fromTop="22" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BootUp.cs" caret="13553" fromTop="26" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BootUp.cs" caret="14222" fromTop="35" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BootUp.cs" caret="16235" fromTop="33" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BootUp.cs" caret="18115" fromTop="34" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BootUp.cs" caret="20008" fromTop="43" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BootUp.cs" caret="21936" fromTop="40" />
+      <File id="4E1FB9A8-4F2E-4801-A12A-BE7685237D8D/f:OracleMediaWriter.cs" caret="18217" fromTop="12" />
+      <File id="4E1FB9A8-4F2E-4801-A12A-BE7685237D8D/f:OracleMediaWriter.cs" caret="19928" fromTop="37" />
+      <File id="4E1FB9A8-4F2E-4801-A12A-BE7685237D8D/f:OracleMediaWriter.cs" caret="20402" fromTop="47" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:InventoryParser.cs" caret="1469" fromTop="22" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:InventoryParser.cs" caret="2882" fromTop="31" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:InventoryParser.cs" caret="6099" fromTop="42" />
+      <File id="F2A49BB2-41B2-44FC-B233-9FFD1996B0C9/f:OracleOutputMessage.cs" caret="16690" fromTop="55" />
+      <File id="F2A49BB2-41B2-44FC-B233-9FFD1996B0C9/f:OracleOutputMessage.cs" caret="17164" fromTop="58" />
+      <File id="F2A49BB2-41B2-44FC-B233-9FFD1996B0C9/f:OracleOutputMessage.cs" caret="16170" fromTop="28" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:CHPEventParser.cs" caret="15645" fromTop="7" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:CHPEventParser.cs" caret="16335" fromTop="22" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:CHPEventParser.cs" caret="17017" fromTop="27" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:CHPEventParser.cs" caret="17531" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="133" />
+      <Item value="SocketInputConfig`0" priority="1" />
+      <Item value="SocketPointInput`0" priority="1" />
+      <Item value="throw" priority="8" />
+      <Item value="new" priority="140" />
+      <Item value="NotImplementedException" priority="3" />
+      <Item value="string" priority="138" />
+      <Item value="int" priority="86" />
+      <Item value="private" priority="47" />
+      <Item value="String`0" priority="66" />
+      <Item value="if" priority="79" />
+      <Item value="configInfo" priority="38" />
+      <Item value="null" priority="32" />
+      <Item value="ArgumentException" priority="4" />
+      <Item value="NonSerializedAttribute`0" priority="0" />
+      <Item value="IP" priority="3" />
+      <Item value="port" priority="2" />
+      <Item value="else" priority="25" />
+      <Item value="ipAd" priority="4" />
+      <Item value="IPAddress`0" priority="1" />
+      <Item value="sockListener" priority="1" />
+      <Item value="PointEvent`0" priority="2" />
+      <Item value="packetDataTime" priority="9" />
+      <Item value="_culture" priority="9" />
+      <Item value="TimeSpan`0" priority="5" />
+      <Item value="DateTimeOffset" priority="1" />
+      <Item value="break" priority="23" />
+      <Item value="static" priority="45" />
+      <Item value="float" priority="3" />
+      <Item value="double" priority="18" />
+      <Item value="return" priority="98" />
+      <Item value="kmh" priority="0" />
+      <Item value="Utils" priority="1" />
+      <Item value="Utilities`0" priority="5" />
+      <Item value="e" priority="14" />
+      <Item value="Config" priority="6" />
+      <Item value="ExplicitServer`0" priority="3" />
+      <Item value="ListOfSensors`0" priority="4" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="ComplexEventProcessing" priority="0" />
+      <Item value="Server`0" priority="1" />
+      <Item value="Delimiter" priority="0" />
+      <Item value="ServerIP" priority="0" />
+      <Item value="ServerPort" priority="0" />
+      <Item value="XmlOutputConfig`0" priority="1" />
+      <Item value="ExplicitServer" priority="0" />
+      <Item value="DBAddress" priority="1" />
+      <Item value="expServer" priority="1" />
+      <Item value="DateTimeOffset`0" priority="3" />
+      <Item value="tempOfset" priority="0" />
+      <Item value="avgSpdForSltArea" priority="0" />
+      <Item value="socketInputAdapter" priority="0" />
+      <Item value="xmlSensorOutputAdapter" priority="1" />
+      <Item value="bool" priority="16" />
+      <Item value="false" priority="21" />
+      <Item value="result" priority="94" />
+      <Item value="StreamWriter" priority="6" />
+      <Item value="outputDirectory" priority="4" />
+      <Item value="void" priority="26" />
+      <Item value="SyntheticDataSender`0" priority="1" />
+      <Item value="Thread" priority="1" />
+      <Item value="ThreadStart" priority="1" />
+      <Item value="sender" priority="0" />
+      <Item value="while" priority="7" />
+      <Item value="Thread`0" priority="9" />
+      <Item value="TcpClient`0" priority="1" />
+      <Item value="TcpClient" priority="0" />
+      <Item value="sock" priority="1" />
+      <Item value="data" priority="1" />
+      <Item value="Console`0" priority="3" />
+      <Item value="QueryTemplate`0" priority="1" />
+      <Item value="sensorSpeed" priority="1" />
+      <Item value="query1Template" priority="0" />
+      <Item value="query2Template" priority="0" />
+      <Item value="UDOs" priority="3" />
+      <Item value="query2" priority="1" />
+      <Item value="StreamWriter`0" priority="8" />
+      <Item value="temp" priority="12" />
+      <Item value="all" priority="11" />
+      <Item value="TrafficSensorReading`0" priority="16" />
+      <Item value="TrafficSensorReading" priority="0" />
+      <Item value="hov" priority="0" />
+      <Item value="HovSpeed" priority="0" />
+      <Item value="hovSp" priority="0" />
+      <Item value="LinkDataStatus" priority="0" />
+      <Item value="linkStatus" priority="0" />
+      <Item value="occ" priority="1" />
+      <Item value="Occupancy" priority="1" />
+      <Item value="SensorId" priority="5" />
+      <Item value="sensId" priority="0" />
+      <Item value="Speed" priority="3" />
+      <Item value="sp" priority="1" />
+      <Item value="Volume" priority="1" />
+      <Item value="vol" priority="0" />
+      <Item value="linkDataStatus" priority="0" />
+      <Item value="List" priority="36" />
+      <Item value="ParseXML`0" priority="0" />
+      <Item value="SyntheticDataSender" priority="0" />
+      <Item value="testData" priority="0" />
+      <Item value="XmlDocument`0" priority="0" />
+      <Item value="XmlDocument" priority="0" />
+      <Item value="xDoc" priority="1" />
+      <Item value="DateTime`0" priority="40" />
+      <Item value="now" priority="2" />
+      <Item value="for" priority="8" />
+      <Item value="i" priority="40" />
+      <Item value="allEvents" priority="1" />
+      <Item value="foreach" priority="8" />
+      <Item value="in" priority="0" />
+      <Item value="sensor" priority="48" />
+      <Item value="Random`0" priority="2" />
+      <Item value="Random" priority="1" />
+      <Item value="rnd" priority="2" />
+      <Item value="tcpclnt" priority="1" />
+      <Item value="System" priority="8" />
+      <Item value="Threading" priority="1" />
+      <Item value="SensorInfo" priority="0" />
+      <Item value="StringWriter`0" priority="0" />
+      <Item value="tempjj" priority="1" />
+      <Item value="buffer" priority="7" />
+      <Item value="where" priority="12" />
+      <Item value="eventWindow" priority="0" />
+      <Item value="oneGroup" priority="0" />
+      <Item value="ev" priority="44" />
+      <Item value="using" priority="24" />
+      <Item value="ApplicationException`0" priority="0" />
+      <Item value="Serializer" priority="0" />
+      <Item value="BinaryFormatter" priority="0" />
+      <Item value="bformatter" priority="0" />
+      <Item value="FileAddress" priority="0" />
+      <Item value="Stream`0" priority="0" />
+      <Item value="stream" priority="1" />
+      <Item value="linkLocDic" priority="1" />
+      <Item value="sensorIDs" priority="0" />
+      <Item value="SensorInfo`0" priority="1" />
+      <Item value="lats" priority="0" />
+      <Item value="longs" priority="0" />
+      <Item value="dircs" priority="0" />
+      <Item value="from" priority="3" />
+      <Item value="Utility`0" priority="0" />
+      <Item value="lat1" priority="0" />
+      <Item value="lng1" priority="0" />
+      <Item value="lat2" priority="0" />
+      <Item value="InvalidProgramException`0" priority="0" />
+      <Item value="Program`0" priority="2" />
+      <Item value="queryBinder" priority="0" />
+      <Item value="Exception`0" priority="5" />
+      <Item value="catch" priority="6" />
+      <Item value="ThreadStaticAttribute`0" priority="3" />
+      <Item value="jj" priority="4" />
+      <Item value="thr" priority="2" />
+      <Item value="collectingStats" priority="4" />
+      <Item value="currentServer" priority="5" />
+      <Item value="path" priority="0" />
+      <Item value="inputDataPath" priority="1" />
+      <Item value="solutionPath" priority="1" />
+      <Item value="outputPath" priority="0" />
+      <Item value="readonly" priority="1" />
+      <Item value="RIITSInputConfig`0" priority="5" />
+      <Item value="GetFreewayRealTime`0" priority="0" />
+      <Item value="default" priority="8" />
+      <Item value="is" priority="1" />
+      <Item value="EventInstance`0" priority="0" />
+      <Item value="WSDLInputAdapters" priority="0" />
+      <Item value="SocketInputFactory`0" priority="0" />
+      <Item value="BaseOutputAdapter" priority="0" />
+      <Item value="RIITSPointInputAdapter`0" priority="0" />
+      <Item value="class" priority="24" />
+      <Item value="RawString`0" priority="0" />
+      <Item value="this" priority="17" />
+      <Item value="str" priority="0" />
+      <Item value="StreamReader`0" priority="2" />
+      <Item value="StreamReader" priority="0" />
+      <Item value="textReader" priority="25" />
+      <Item value="startTime" priority="1" />
+      <Item value="GetSensorBaseInputConfig`0" priority="0" />
+      <Item value="List&lt;string&gt;" priority="2" />
+      <Item value="sensorStream" priority="1" />
+      <Item value="Query`0" priority="2" />
+      <Item value="BindQuery`0" priority="0" />
+      <Item value="passThruQuery" priority="2" />
+      <Item value="inputName" priority="1" />
+      <Item value="sensorSpeedOutputConf" priority="1" />
+      <Item value="protected" priority="27" />
+      <Item value="abstract" priority="9" />
+      <Item value="override" priority="2" />
+      <Item value="xmlStr" priority="3" />
+      <Item value="CreateOutputMessage`0" priority="4" />
+      <Item value="GenerateOutput`0" priority="2" />
+      <Item value="XmlPointSensorSpeedOutput`0" priority="0" />
+      <Item value="SocketTrafficOutputConfig`0" priority="3" />
+      <Item value="Port" priority="1" />
+      <Item value="ip" priority="1" />
+      <Item value="adapter" priority="6" />
+      <Item value="SocketPointSensorSpeedOutput`0" priority="0" />
+      <Item value="cepEventType" priority="4" />
+      <Item value="writer" priority="10" />
+      <Item value="TrafficOutputConfig`0" priority="5" />
+      <Item value="GetSensorSpeedOutputConf`0" priority="0" />
+      <Item value="SocketTrafficOutputConfig" priority="0" />
+      <Item value="IPAddress" priority="1" />
+      <Item value="PortNumber" priority="0" />
+      <Item value="OutputFileName" priority="3" />
+      <Item value="GetSocketTrafficOutputConfig`0" priority="0" />
+      <Item value="OutputAdapter`0" priority="0" />
+      <Item value="passThruQuery2" priority="1" />
+      <Item value="column" priority="3" />
+      <Item value="socketSensorOutputAdapter" priority="1" />
+      <Item value="applicationName" priority="0" />
+      <Item value="QueryBinder`0" priority="3" />
+      <Item value="socketSensorSpeedOutputConfig" priority="1" />
+      <Item value="socketSensorSpeedQB" priority="0" />
+      <Item value="rawValues" priority="0" />
+      <Item value="tempwriter" priority="1" />
+      <Item value="justReceived" priority="0" />
+      <Item value="TextWriter`0" priority="4" />
+      <Item value="tempWriter" priority="4" />
+      <Item value="_eventsEnqueued" priority="0" />
+      <Item value="true" priority="14" />
+      <Item value="XMLParser`0" priority="4" />
+      <Item value="DateTime" priority="5" />
+      <Item value="allText" priority="0" />
+      <Item value="RawFileParser`0" priority="3" />
+      <Item value="interface" priority="0" />
+      <Item value="fieldNum" priority="0" />
+      <Item value="XMLParser" priority="1" />
+      <Item value="initialized" priority="2" />
+      <Item value="parser" priority="24" />
+      <Item value="_bindtimeEventType" priority="1" />
+      <Item value="Parser" priority="0" />
+      <Item value="FreewayParser`0" priority="5" />
+      <Item value="typeof" priority="4" />
+      <Item value="switch" priority="5" />
+      <Item value="className" priority="2" />
+      <Item value="Type`0" priority="12" />
+      <Item value="CreateInsertEvent`0" priority="0" />
+      <Item value="SqlGeography`0" priority="1" />
+      <Item value="minlong" priority="1" />
+      <Item value="delegate" priority="1" />
+      <Item value="virtual" priority="0" />
+      <Item value="DataFetcher`0" priority="2" />
+      <Item value="del" priority="1" />
+      <Item value="Parsers" priority="0" />
+      <Item value="FreewaySensorInfo`0" priority="0" />
+      <Item value="PostMile" priority="3" />
+      <Item value="postmile" priority="1" />
+      <Item value="AffectedLaneCnt" priority="0" />
+      <Item value="afLaneType" priority="1" />
+      <Item value="AffectedLaneType" priority="1" />
+      <Item value="MemoryStream`0" priority="0" />
+      <Item value="Memory`0" priority="1" />
+      <Item value="Memory" priority="2" />
+      <Item value="BootUp`0" priority="12" />
+      <Item value="expectedFieldNum" priority="1" />
+      <Item value="XmlUtil`0" priority="1" />
+      <Item value="ArterialLinkLocDic" priority="0" />
+      <Item value="Dictionary&lt;int,ArterialSensorInfo&gt;" priority="0" />
+      <Item value="arterialParser" priority="5" />
+      <Item value="ArterialParser" priority="0" />
+      <Item value="ArterialSensorInfo`0" priority="0" />
+      <Item value="ArterialSensorInfo" priority="0" />
+      <Item value="Double`0" priority="4" />
+      <Item value="record" priority="14" />
+      <Item value="Int32`0" priority="3" />
+      <Item value="lat" priority="3" />
+      <Item value="lng" priority="3" />
+      <Item value="onStreet" priority="2" />
+      <Item value="direction" priority="2" />
+      <Item value="fromStreet" priority="2" />
+      <Item value="postMile" priority="1" />
+      <Item value="laneCount" priority="0" />
+      <Item value="type" priority="4" />
+      <Item value="ConvertRecordToSensInfo`0" priority="0" />
+      <Item value="ReadARecord`0" priority="1" />
+      <Item value="ID" priority="5" />
+      <Item value="id" priority="3" />
+      <Item value="arterialInventoryParser" priority="1" />
+      <Item value="CultureInfo" priority="0" />
+      <Item value="tempLength" priority="1" />
+      <Item value="decimalPoints" priority="0" />
+      <Item value="var" priority="8" />
+      <Item value="ToStreet" priority="3" />
+      <Item value="TST" priority="1" />
+      <Item value="City" priority="2" />
+      <Item value="city" priority="1" />
+      <Item value="AffectedLane`0" priority="8" />
+      <Item value="LaneCnt" priority="0" />
+      <Item value="cnt" priority="2" />
+      <Item value="affectedLanes" priority="5" />
+      <Item value="ArterialSensor" priority="0" />
+      <Item value="base" priority="7" />
+      <Item value="readARecord" priority="14" />
+      <Item value="Direction" priority="4" />
+      <Item value="FromStreet" priority="2" />
+      <Item value="OnStreet" priority="2" />
+      <Item value="List&lt;AffectedLane&gt;" priority="0" />
+      <Item value="AffectedLane" priority="0" />
+      <Item value="ArterialInventoryParser`0" priority="1" />
+      <Item value="ArterialParser`0" priority="1" />
+      <Item value="FetchData`0" priority="0" />
+      <Item value="IOutputType`0" priority="12" />
+      <Item value="List&lt;PointEvent&lt;SensorSpeedOutputElement&gt;&gt;" priority="0" />
+      <Item value="PointEvent&lt;SensorSpeedOutputElement&gt;" priority="1" />
+      <Item value="PointEvent" priority="0" />
+      <Item value="SensorSpeedOutputElement`0" priority="1" />
+      <Item value="StartTime" priority="1" />
+      <Item value="Object`0" priority="22" />
+      <Item value="EventTypes" priority="16" />
+      <Item value="List&lt;T&gt;" priority="0" />
+      <Item value="T`0" priority="12" />
+      <Item value="T" priority="0" />
+      <Item value="currEvent" priority="0" />
+      <Item value="newT" priority="0" />
+      <Item value="Sensor`0" priority="18" />
+      <Item value="latitude" priority="1" />
+      <Item value="long" priority="2" />
+      <Item value="longitude" priority="1" />
+      <Item value="Dictionary" priority="5" />
+      <Item value="TSensorID`0" priority="2" />
+      <Item value="TSensor`0" priority="3" />
+      <Item value="object" priority="12" />
+      <Item value="TOutputType`0" priority="1" />
+      <Item value="LookupTable" priority="4" />
+      <Item value="FreewaySensor`0" priority="1" />
+      <Item value="GetSensorInfo`0" priority="1" />
+      <Item value="myDel" priority="0" />
+      <Item value="outputEventType" priority="3" />
+      <Item value="memory" priority="1" />
+      <Item value="values" priority="5" />
+      <Item value="ArterialSensor`0" priority="0" />
+      <Item value="OutputAdapterBase`0" priority="2" />
+      <Item value="UpdateEndOfMinute`0" priority="1" />
+      <Item value="myUpdateEndOfMinute" priority="0" />
+      <Item value="myCreateOutputMessage" priority="2" />
+      <Item value="messageType" priority="3" />
+      <Item value="myGenerateOutput" priority="0" />
+      <Item value="outputMedia" priority="1" />
+      <Item value="MediaWriter`0" priority="3" />
+      <Item value="FileMediaWriter`0" priority="1" />
+      <Item value="filePath" priority="3" />
+      <Item value="File`0" priority="0" />
+      <Item value="message" priority="27" />
+      <Item value="mediaWriter" priority="1" />
+      <Item value="IOutputMessage`0" priority="0" />
+      <Item value="XMLOutputMessage`0" priority="0" />
+      <Item value="config" priority="7" />
+      <Item value="IOutputMessage" priority="3" />
+      <Item value="Lookup" priority="0" />
+      <Item value="lookupTable" priority="4" />
+      <Item value="table" priority="1" />
+      <Item value="EndTags" priority="0" />
+      <Item value="CreateEndTags`0" priority="0" />
+      <Item value="try" priority="17" />
+      <Item value="IOException`0" priority="0" />
+      <Item value="enum" priority="3" />
+      <Item value="OutputMessageType`0" priority="4" />
+      <Item value="OutputMessageConfig`0" priority="7" />
+      <Item value="OutputMediaConfig`0" priority="1" />
+      <Item value="OutputAdapterBase" priority="6" />
+      <Item value="FreewaySensorSpeedOutputElement`0" priority="8" />
+      <Item value="case" priority="18" />
+      <Item value="File" priority="1" />
+      <Item value="FileMediaConfig`0" priority="2" />
+      <Item value="XMLMessageConfig`0" priority="7" />
+      <Item value="SourceDataType`0" priority="24" />
+      <Item value="XMLOutputMessage" priority="3" />
+      <Item value="outputMessage" priority="1" />
+      <Item value="sourceDataType" priority="0" />
+      <Item value="sourceDataType`0" priority="0" />
+      <Item value="jjtime" priority="2" />
+      <Item value="generic" priority="3" />
+      <Item value="GenericUriParser`0" priority="0" />
+      <Item value="Activator`0" priority="1" />
+      <Item value="combined" priority="1" />
+      <Item value="adapterType" priority="0" />
+      <Item value="outputType" priority="0" />
+      <Item value="combinedAdapter" priority="0" />
+      <Item value="xmlOutputMessage" priority="0" />
+      <Item value="Freeway" priority="1" />
+      <Item value="XMLOutputAdapter" priority="1" />
+      <Item value="LookupFreeway`0" priority="2" />
+      <Item value="Arterial" priority="0" />
+      <Item value="ArterialSensorSpeedOutputElement`0" priority="1" />
+      <Item value="LookupArterial`0" priority="2" />
+      <Item value="GetFreewayOutputFieldOrders`0" priority="2" />
+      <Item value="XMLMessageConfig" priority="1" />
+      <Item value="Header" priority="2" />
+      <Item value="RootName" priority="2" />
+      <Item value="OtherTopStories" priority="2" />
+      <Item value="OutputFieldOrders" priority="2" />
+      <Item value="fieldOrders" priority="2" />
+      <Item value="outputFieldOrders" priority="0" />
+      <Item value="GetOutputXMLMessageConfigFreeway`0" priority="3" />
+      <Item value="outputFile" priority="0" />
+      <Item value="outputFilePath" priority="0" />
+      <Item value="TrafficOutputConfig" priority="0" />
+      <Item value="mediaConfig" priority="1" />
+      <Item value="SourceDataType" priority="2" />
+      <Item value="sourceType" priority="1" />
+      <Item value="OutputMessageConfig" priority="0" />
+      <Item value="messageConfig" priority="0" />
+      <Item value="OutputMediaConfig" priority="0" />
+      <Item value="GetOutputFileMediaConfig`0" priority="0" />
+      <Item value="OutputMediaType`0" priority="4" />
+      <Item value="OutputMessageType" priority="1" />
+      <Item value="OutputMediaType" priority="1" />
+      <Item value="mediaType" priority="4" />
+      <Item value="fileName" priority="4" />
+      <Item value="header" priority="0" />
+      <Item value="rootNam" priority="0" />
+      <Item value="otherStories" priority="0" />
+      <Item value="FileMediaConfig" priority="0" />
+      <Item value="XML" priority="0" />
+      <Item value="badbakhti" priority="3" />
+      <Item value="CloudMediaWriter`0" priority="3" />
+      <Item value="command" priority="3" />
+      <Item value="connString" priority="3" />
+      <Item value="connection" priority="7" />
+      <Item value="SQLMessageConfig`0" priority="4" />
+      <Item value="TableName" priority="1" />
+      <Item value="tableName" priority="9" />
+      <Item value="SqlStr" priority="13" />
+      <Item value="char" priority="3" />
+      <Item value="tags" priority="3" />
+      <Item value="UNION_ALL" priority="2" />
+      <Item value="SQLMessageConfig" priority="1" />
+      <Item value="GetOutputSqlOutputMessageConfigFreeway`0" priority="0" />
+      <Item value="SQLOutputMessage" priority="0" />
+      <Item value="sensorSpeedQB" priority="0" />
+      <Item value="application" priority="7" />
+      <Item value="XmlOutputFactory`0" priority="0" />
+      <Item value="sensorSpeedOutputConfToCloud" priority="1" />
+      <Item value="query1" priority="0" />
+      <Item value="publishedResult" priority="4" />
+      <Item value="FullyOrdered" priority="0" />
+      <Item value="EventShape`0" priority="0" />
+      <Item value="BindQueryToAnotherQuery`0" priority="1" />
+      <Item value="cloudQuery" priority="5" />
+      <Item value="GetSelectedAreaQT`0" priority="0" />
+      <Item value="select" priority="2" />
+      <Item value="QueryBinder" priority="0" />
+      <Item value="jjBinder" priority="1" />
+      <Item value="newQuery" priority="0" />
+      <Item value="cloudSensorOutputAdapter3" priority="1" />
+      <Item value="sensorSpeedCloudQB" priority="0" />
+      <Item value="QTName" priority="0" />
+      <Item value="khoshbakhti" priority="3" />
+      <Item value="GetFreewayOutputSQLFieldOrders`0" priority="0" />
+      <Item value="LookUpFreewayDB`0" priority="0" />
+      <Item value="LookupArterialDB`0" priority="0" />
+      <Item value="tw" priority="4" />
+      <Item value="InputFetchFreq" priority="0" />
+      <Item value="fetchFrequency" priority="0" />
+      <Item value="FreeterialInventorySensorReading`0" priority="0" />
+      <Item value="sensorId" priority="1" />
+      <Item value="OST" priority="0" />
+      <Item value="FST" priority="0" />
+      <Item value="toStreet" priority="0" />
+      <Item value="Lat" priority="0" />
+      <Item value="Lng" priority="0" />
+      <Item value="Postmile" priority="0" />
+      <Item value="AffectedLaneCount" priority="0" />
+      <Item value="affectedLaneCount" priority="0" />
+      <Item value="affectedLaneType" priority="0" />
+      <Item value="RIITSDataTypes`0" priority="1" />
+      <Item value="InputConfigUtils`0" priority="0" />
+      <Item value="qDescription" priority="1" />
+      <Item value="qName" priority="1" />
+      <Item value="QueryStrings`0" priority="2" />
+      <Item value="QueryUtils`0" priority="0" />
+      <Item value="qtName" priority="0" />
+      <Item value="alignment" priority="1" />
+      <Item value="fileLoaded" priority="0" />
+      <Item value="XMLLoaded`0" priority="0" />
+      <Item value="StreamUtils`0" priority="4" />
+      <Item value="GetFreewayOutputXMLFieldOrders`0" priority="0" />
+      <Item value="FieldOrders`0" priority="3" />
+      <Item value="OutputConfigUtils`0" priority="3" />
+      <Item value="outputConfSensorSpeedCloudFreeway" priority="1" />
+      <Item value="Base64FormattingOptions`0" priority="0" />
+      <Item value="WSDLConnector`0" priority="0" />
+      <Item value="BaseFileParser`0" priority="1" />
+      <Item value="agency" priority="18" />
+      <Item value="RIITSFreewayAgency`0" priority="4" />
+      <Item value="requestType" priority="2" />
+      <Item value="issueAgency" priority="1" />
+      <Item value="verbosity" priority="1" />
+      <Item value="InventoryParser`0" priority="0" />
+      <Item value="FreewayInventoryParser`0" priority="2" />
+      <Item value="jjCloud" priority="0" />
+      <Item value="sensorStreamForSensorSpeedQuery" priority="1" />
+      <Item value="Hovspeed" priority="0" />
+      <Item value="Link_Status" priority="0" />
+      <Item value="periodicFreewayInventoryLoader" priority="0" />
+      <Item value="PeriodicFreewayInventoryUpdate`0" priority="1" />
+      <Item value="lock" priority="2" />
+      <Item value="arterialWriteLock" priority="0" />
+      <Item value="Dictionary&lt;int,Sensor&gt;" priority="2" />
+      <Item value="pair" priority="7" />
+      <Item value="previousValue" priority="2" />
+      <Item value="freewayLinkLocDic" priority="2" />
+      <Item value="changedValues" priority="2" />
+      <Item value="second" priority="9" />
+      <Item value="GeogLocation" priority="0" />
+      <Item value="newValue" priority="1" />
+      <Item value="FreewayLinkLocDic" priority="5" />
+      <Item value="KeyValuePair" priority="0" />
+      <Item value="changedValue" priority="1" />
+      <Item value="tempSensorId" priority="1" />
+      <Item value="highway" priority="0" />
+      <Item value="out" priority="11" />
+      <Item value="FindDiff`0" priority="0" />
+      <Item value="newFreeway" priority="0" />
+      <Item value="difList" priority="6" />
+      <Item value="current" priority="1" />
+      <Item value="DBTableStrings`0" priority="2" />
+      <Item value="query" priority="2" />
+      <Item value="MaxFreewayConfigID" priority="0" />
+      <Item value="CloudMediaWriter" priority="0" />
+      <Item value="configTableName" priority="0" />
+      <Item value="configID" priority="6" />
+      <Item value="keyValuePair" priority="2" />
+      <Item value="tag" priority="15" />
+      <Item value="tempSensor" priority="1" />
+      <Item value="firstTimeFreeway" priority="4" />
+      <Item value="recentFreeway" priority="0" />
+      <Item value="recent" priority="0" />
+      <Item value="freewayWriteLock" priority="1" />
+      <Item value="arterialPassThruQuery" priority="0" />
+      <Item value="RIITSArterialAgency`0" priority="0" />
+      <Item value="arterialFilteredQuery" priority="1" />
+      <Item value="XmlReader`0" priority="0" />
+      <Item value="XmlTextReader`0" priority="0" />
+      <Item value="arterialReplyaCounter" priority="1" />
+      <Item value="reader" priority="6" />
+      <Item value="TextReader`0" priority="3" />
+      <Item value="BufferedStream`0" priority="0" />
+      <Item value="freewayReplayCounter" priority="0" />
+      <Item value="FreewayDataReplayer`0" priority="0" />
+      <Item value="ArterialDataReplayer`0" priority="1" />
+      <Item value="tempReplayCounter" priority="5" />
+      <Item value="PeriodicArterialInventoryUpdate`0" priority="0" />
+      <Item value="linkID" priority="2" />
+      <Item value="value" priority="2" />
+      <Item value="arterialLinkLocDic" priority="0" />
+      <Item value="Sensor" priority="0" />
+      <Item value="jjNew" priority="0" />
+      <Item value="XmlException`0" priority="0" />
+      <Item value="successful" priority="2" />
+      <Item value="endDate" priority="0" />
+      <Item value="averageSpeed" priority="5" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="rectangle" priority="0" />
+      <Item value="filteredSensors" priority="0" />
+      <Item value="validSensors" priority="3" />
+      <Item value="filteredSensor" priority="0" />
+      <Item value="utils" priority="1" />
+      <Item value="OleDbConnection`0" priority="0" />
+      <Item value="OleDbConnection" priority="0" />
+      <Item value="connectionString" priority="2" />
+      <Item value="OdbcCommand" priority="0" />
+      <Item value="OdbcConnection`0" priority="0" />
+      <Item value="OdbcConnection" priority="0" />
+      <Item value="timePart" priority="1" />
+      <Item value="start" priority="2" />
+      <Item value="TextWriterTraceListener`0" priority="0" />
+      <Item value="dec" priority="1" />
+      <Item value="CrossAppDomainDelegate`0" priority="1" />
+      <Item value="dd" priority="0" />
+      <Item value="DBNull`0" priority="1" />
+      <Item value="tempJalal" priority="1" />
+      <Item value="tempJJTextWriter" priority="1" />
+      <Item value="deleteme" priority="1" />
+      <Item value="InsideRectangle`0" priority="0" />
+      <Item value="UDOConfig`0" priority="2" />
+      <Item value="UDOConfig" priority="0" />
+      <Item value="allSensors" priority="0" />
+      <Item value="doubleClass`0" priority="0" />
+      <Item value="AvgSpdForSltAreaEvent" priority="0" />
+      <Item value="GetUnboundSelectedAreaStream`0" priority="0" />
+      <Item value="freewayPassThruQuery" priority="1" />
+      <Item value="filteredSensorStreamForSensorSpeedQuery" priority="0" />
+      <Item value="Application`0" priority="0" />
+      <Item value="CepStream`0" priority="1" />
+      <Item value="QTDescription" priority="0" />
+      <Item value="app" priority="0" />
+      <Item value="arterialInputName" priority="0" />
+      <Item value="arterialSelectedAreaSensorSpeedQT" priority="0" />
+      <Item value="freewayInputName" priority="0" />
+      <Item value="Rectangle`0" priority="0" />
+      <Item value="backUpEnabled" priority="0" />
+      <Item value="AzureTableStorageMediaWriter" priority="1" />
+      <Item value="storageConnectionString" priority="1" />
+      <Item value="entity" priority="0" />
+      <Item value="const" priority="1" />
+      <Item value="list" priority="8" />
+      <Item value="maxInsertsPerBatch" priority="5" />
+      <Item value="InsertBatchEntity`0" priority="1" />
+      <Item value="TableClient" priority="0" />
+      <Item value="CreateTablesIfNotExists`0" priority="0" />
+      <Item value="ArterialEntity`0" priority="0" />
+      <Item value="TableServiceEntity`0" priority="0" />
+      <Item value="SqlConnection" priority="0" />
+      <Item value="SqlConnection`0" priority="1" />
+      <Item value="DBServices`0" priority="0" />
+      <Item value="RunCommand`0" priority="0" />
+      <Item value="comm" priority="0" />
+      <Item value="ArterialEntityTuple`0" priority="0" />
+      <Item value="datetime" priority="3" />
+      <Item value="occupancy" priority="0" />
+      <Item value="speed" priority="0" />
+      <Item value="volume" priority="0" />
+      <Item value="hovSpeed" priority="0" />
+      <Item value="faultyIndicator" priority="0" />
+      <Item value="link_status" priority="0" />
+      <Item value="Agency" priority="2" />
+      <Item value="DELIMITER" priority="10" />
+      <Item value="ARTERIAL" priority="0" />
+      <Item value="sensorID" priority="3" />
+      <Item value="PartitionKey" priority="0" />
+      <Item value="GetPartition`0" priority="0" />
+      <Item value="RowKey" priority="0" />
+      <Item value="GetRowKey`0" priority="0" />
+      <Item value="Type" priority="3" />
+      <Item value="EntityTuple`0" priority="0" />
+      <Item value="AzureTableStorageOutputMessage" priority="1" />
+      <Item value="SensorEntityTuple`0" priority="4" />
+      <Item value="List&lt;SensorEntityTuple&gt;" priority="0" />
+      <Item value="Data" priority="2" />
+      <Item value="SqlClient" priority="0" />
+      <Item value="SQLDBServices`0" priority="2" />
+      <Item value="singleton" priority="3" />
+      <Item value="SQLDBServices" priority="0" />
+      <Item value="link_type" priority="0" />
+      <Item value="DBServices" priority="0" />
+      <Item value="field" priority="0" />
+      <Item value="tableSchema" priority="5" />
+      <Item value="packetDateTime" priority="5" />
+      <Item value="OracleDBServices`0" priority="1" />
+      <Item value="continue" priority="3" />
+      <Item value="OracleNumber`0" priority="0" />
+      <Item value="firstTimeArterial" priority="0" />
+      <Item value="maxFreewayConfigID" priority="0" />
+      <Item value="AzureTableStorageSensorOutputAdapter4" priority="0" />
+      <Item value="outputConfSensorSpeedAzureTableFreeway" priority="0" />
+      <Item value="sensorSpeedQBAzureTableQB" priority="0" />
+      <Item value="azureTableStorageQ" priority="0" />
+      <Item value="LookUpFreewayAzureTable`0" priority="0" />
+      <Item value="AzureTableStrings`0" priority="0" />
+      <Item value="sensID" priority="1" />
+      <Item value="GetEntity`1" priority="0" />
+      <Item value="JalalTest`0" priority="0" />
+      <Item value="finally" priority="0" />
+      <Item value="FreewaySensorEntityTuple`0" priority="1" />
+      <Item value="RIITSInputConfig" priority="0" />
+      <Item value="InputFieldOrders" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="CHPEventParser`0" priority="1" />
+      <Item value="tempType" priority="2" />
+      <Item value="tempCnt" priority="1" />
+      <Item value="count" priority="6" />
+      <Item value="_9228" priority="1" />
+      <Item value="_9220" priority="2" />
+      <Item value="_9290" priority="1" />
+      <Item value="CultureInfo`0" priority="0" />
+      <Item value="date" priority="2" />
+      <Item value="time" priority="0" />
+      <Item value="finalDateTime" priority="1" />
+      <Item value="_9227" priority="0" />
+      <Item value="tempInj" priority="1" />
+      <Item value="fatalityCount" priority="1" />
+      <Item value="possibleInjCount" priority="1" />
+      <Item value="cultureName" priority="0" />
+      <Item value="culture" priority="2" />
+      <Item value="EventQuery" priority="1" />
+      <Item value="serviceType" priority="0" />
+      <Item value="WSDLEventConnector`0" priority="0" />
+      <Item value="stopAtThis" priority="0" />
+      <Item value="StartTag" priority="3" />
+      <Item value="startTag" priority="0" />
+      <Item value="FormatException`0" priority="1" />
+      <Item value="evtField" priority="0" />
+      <Item value="fields" priority="0" />
+      <Item value="ordinal" priority="0" />
+      <Item value="evt" priority="0" />
+      <Item value="cepOrdinal" priority="0" />
+      <Item value="EventReading`0" priority="0" />
+      <Item value="eventInputName" priority="0" />
+      <Item value="EventParser`0" priority="0" />
+      <Item value="RIITSEventAgency`0" priority="3" />
+      <Item value="RegionalLAEventParser`0" priority="0" />
+      <Item value="DateTimeStyles`0" priority="0" />
+      <Item value="clearDate" priority="0" />
+      <Item value="clearTime" priority="0" />
+      <Item value="EventEntityTuple`0" priority="8" />
+      <Item value="EventId" priority="0" />
+      <Item value="AbandonedMutexException" priority="0" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="EventEntityTuple" priority="0" />
+      <Item value="azureTableStorageCHPEventQuery" priority="0" />
+      <Item value="D7EventOracleQuery" priority="0" />
+      <Item value="CHPLAEventOracleQuery" priority="0" />
+      <Item value="RegionalLAEventOracleQuery" priority="0" />
+      <Item value="iDate" priority="3" />
+      <Item value="LongToDate`0" priority="1" />
+      <Item value="recentArterial" priority="0" />
+      <Item value="BusRoute`0" priority="0" />
+      <Item value="zones" priority="2" />
+      <Item value="routeID" priority="0" />
+      <Item value="BusRouteEntityTuple`0" priority="1" />
+      <Item value="RailRoute`0" priority="0" />
+      <Item value="routeDes" priority="1" />
+      <Item value="RampMeter`0" priority="1" />
+      <Item value="ConfigID" priority="4" />
+      <Item value="msID" priority="0" />
+      <Item value="rampType" priority="0" />
+      <Item value="travelLinks`0" priority="1" />
+      <Item value="maxTravelTimeConfigID" priority="0" />
+      <Item value="TravelTimeEntityTuple`0" priority="0" />
+      <Item value="route" priority="0" />
+      <Item value="linkType" priority="0" />
+      <Item value="beginID" priority="0" />
+      <Item value="endID" priority="0" />
+      <Item value="length" priority="0" />
+      <Item value="beginStreet" priority="0" />
+      <Item value="beginLat" priority="0" />
+      <Item value="beginLon" priority="0" />
+      <Item value="endStreet" priority="0" />
+      <Item value="endLat" priority="0" />
+      <Item value="endLon" priority="0" />
+      <Item value="RouteId" priority="1" />
+      <Item value="RampId" priority="0" />
+      <Item value="routeId" priority="0" />
+      <Item value="SensorID" priority="0" />
+      <Item value="dateTime" priority="0" />
+      <Item value="LineId" priority="2" />
+      <Item value="XMLFreewayQuery" priority="0" />
+      <Item value="IsUpdateTime" priority="1" />
+      <Item value="FileWriterAppend`0" priority="0" />
+      <Item value="EnqueueOperationResult`0" priority="0" />
+      <Item value="wr" priority="1" />
+      <Item value="content" priority="3" />
+      <Item value="FileExpender`0" priority="0" />
+      <Item value="LookupEventDB`0" priority="0" />
+      <Item value="createEventMessage`0" priority="0" />
+      <Item value="EventsDequeued" priority="0" />
+      <Item value="AdapterState`0" priority="0" />
+      <Item value="startWritingTime" priority="0" />
+      <Item value="con" priority="1" />
+      <Item value="trans" priority="0" />
+      <Item value="Element" priority="0" />
+      <Item value="Boolean`0" priority="0" />
+      <Item value="user" priority="0" />
+      <Item value="pwd" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="State" priority="0" />
+      <Item value="TrafficApp" priority="0" />
+      <Item value="ExceptionEmailReporter`0" priority="1" />
+      <Item value="msg" priority="9" />
+      <Item value="m" priority="0" />
+      <Item value="lineNo" priority="1" />
+      <Item value="l" priority="0" />
+      <Item value="FileName" priority="2" />
+      <Item value="MS" priority="1" />
+      <Item value="ExceptionReporter" priority="4" />
+      <Item value="ExceptionEmailReporter" priority="0" />
+      <Item value="SendEmail`0" priority="0" />
+      <Item value="reportThread" priority="0" />
+      <Item value="reporter" priority="1" />
+      <Item value="HashSet" priority="0" />
+      <Item value="HashSet&lt;string&gt;" priority="0" />
+      <Item value="keys" priority="2" />
+      <Item value="tmp" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="BusGPSOutputElement`0" priority="0" />
+      <Item value="RailGPSOutputElement`0" priority="0" />
+      <Item value="TravelLinksOutputElement`0" priority="0" />
+      <Item value="RampOutputElement`0" priority="0" />
+      <Item value="EventOutputElement`0" priority="0" />
+      <Item value="dt" priority="0" />
+      <Item value="dataType" priority="2" />
+      <Item value="platform" priority="1" />
+      <Item value="pl" priority="0" />
+      <Item value="DataType" priority="3" />
+      <Item value="List&lt;object&gt;" priority="5" />
+      <Item value="insertMsg" priority="1" />
+      <Item value="description" priority="0" />
+      <Item value="ExceptionOracleWriter" priority="0" />
+      <Item value="ExceptionDatabaseReporter`0" priority="1" />
+      <Item value="ExceptionDatabaseReporter" priority="0" />
+      <Item value="reporter2" priority="0" />
+      <Item value="temp_message" priority="4" />
+      <Item value="isValidDate" priority="2" />
+      <Item value="datatype" priority="0" />
+      <Item value="brtFlag" priority="1" />
+      <Item value="FlagsAttribute`0" priority="1" />
+      <Item value="flag" priority="0" />
+      <Item value="index" priority="0" />
+      <Item value="br" priority="1" />
+      <Item value="Globalization" priority="0" />
+      <Item value="commends" priority="1" />
+      <Item value="cur_day" priority="0" />
+      <Item value="last_updated_day" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SocketInputAdapter.SocketInputConfig">
+      <Item value="ServerIP" priority="1" />
+      <Item value="ServerPort" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.IPAddress">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Add`0" priority="1" />
+      <Item value="ToString`0" priority="9" />
+      <Item value="ToLocalTime`0" priority="0" />
+      <Item value="Date" priority="0" />
+      <Item value="AddHours`0" priority="1" />
+      <Item value="AddMinutes`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromTicks`0" priority="2" />
+      <Item value="FromMinutes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTimeOffset">
+      <Item value="Add`0" priority="0" />
+      <Item value="LocalDateTime" priority="2" />
+      <Item value="Year" priority="0" />
+      <Item value="Month" priority="0" />
+      <Item value="Day" priority="0" />
+      <Item value="Hour" priority="0" />
+      <Item value="Minute" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Utils.Utilities">
+      <Item value="KMH2MPH`0" priority="3" />
+      <Item value="GetInstance`0" priority="0" />
+      <Item value="ServerPort" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.XmlSensorSpeedElement">
+      <Item value="Speed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.XmlAverageSpeedElement">
+      <Item value="Speed" priority="1" />
+      <Item value="StartTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.ComplexEventProcessing.EventShape">
+      <Item value="Point" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="7" />
+      <Item value="CurrentThread" priority="1" />
+      <Item value="SpinWait`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.Socket">
+      <Item value="Send`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToCharArray`0" priority="0" />
+      <Item value="ToString`0" priority="5" />
+      <Item value="Length" priority="12" />
+      <Item value="Replace`0" priority="5" />
+      <Item value="Remove`0" priority="8" />
+      <Item value="Count`1" priority="3" />
+      <Item value="Contains`0" priority="2" />
+      <Item value="CompareTo`0" priority="1" />
+      <Item value="ToLower`0" priority="0" />
+      <Item value="Substring`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.XmlOutputConfig">
+      <Item value="OutputFieldOrders" priority="0" />
+      <Item value="OutputFileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UDOs.ListOfSensors">
+      <Item value="SetList`0" priority="1" />
+      <Item value="Includes`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Query">
+      <Item value="Start`0" priority="12" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="ToStream`1" priority="3" />
+      <Item value="OutputStreamBindings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="5" />
+      <Item value="Close`0" priority="5" />
+      <Item value="Dispose`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventTypes.TrafficSensorReading">
+      <Item value="HovSpeed" priority="1" />
+      <Item value="SensorId" priority="1" />
+      <Item value="Occupancy" priority="0" />
+      <Item value="Speed" priority="2" />
+      <Item value="Volume" priority="0" />
+      <Item value="LinkDataStatus" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="15" />
+      <Item value="ToArray`0" priority="0" />
+      <Item value="Add`0" priority="19" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="GetRange`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="ElementAt`1" priority="0" />
+      <Item value="RemoveAt`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="1" />
+      <Item value="NextDouble`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Max`0" priority="0" />
+      <Item value="Pow`0" priority="0" />
+      <Item value="Ceiling`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="3" />
+      <Item value="MinValue" priority="2" />
+      <Item value="TryParseExact`0" priority="1" />
+      <Item value="ParseExact`0" priority="1" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.TcpClient">
+      <Item value="Connect`0" priority="0" />
+      <Item value="Client" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Linq.IKey`1">
+      <Item value="Key" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.Formatters.Binary.BinaryFormatter">
+      <Item value="Deserialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="5" />
+      <Item value="ContainsKey`0" priority="1" />
+      <Item value="TryGetValue`0" priority="3" />
+      <Item value="Count" priority="1" />
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.ComplexEventProcessing.Server">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Utils.Utilities">
+      <Item value="GetLinksInBetween`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="4" />
+      <Item value="TryParse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TrafficApp.Program">
+      <Item value="Main`0" priority="0" />
+      <Item value="solutionPath" priority="0" />
+      <Item value="InputDataPath" priority="0" />
+      <Item value="outputPath" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.ComplexEventProcessing.StreamEventOrder">
+      <Item value="FullyOrdered" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SIServers.ExplicitServer">
+      <Item value="StopAverageQuery`0" priority="0" />
+      <Item value="StartAverageQuery`0" priority="0" />
+      <Item value="StartArterialQuery`0" priority="0" />
+      <Item value="StartEventQuery`0" priority="1" />
+      <Item value="StartXMLArterialQuery`0" priority="0" />
+      <Item value="StartXMLHighwayQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BaseOutputAdapter.RawString">
+      <Item value="str" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BaseTrafficInputAdapters.RIITSInputConfig">
+      <Item value="InputFieldOrders" priority="1" />
+      <Item value="Parser" priority="1" />
+      <Item value="InputFetchFreq" priority="1" />
+      <Item value="RIITSAgency" priority="1" />
+      <Item value="CultureName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.SocketTrafficOutputConfig">
+      <Item value="IPAddress" priority="0" />
+      <Item value="PortNumber" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlTextReader">
+      <Item value="Close`0" priority="0" />
+      <Item value="Read`0" priority="14" />
+      <Item value="Value" priority="6" />
+      <Item value="Name" priority="2" />
+      <Item value="IsEmptyElement" priority="1" />
+      <Item value="NodeType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLParser.XMLParser">
+      <Item value="Init`0" priority="3" />
+      <Item value="IsInitialized`0" priority="0" />
+      <Item value="ReadNode`0" priority="2" />
+      <Item value="IsNotEndElement`0" priority="2" />
+      <Item value="SpringOverHeaders`0" priority="0" />
+      <Item value="XMLLoaded`0" priority="1" />
+      <Item value="ReadARecord`0" priority="0" />
+      <Item value="CloseFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.CepEventType">
+      <Item value="FieldsByOrdinal" priority="0" />
+      <Item value="Fields" priority="0" />
+      <Item value="ClrType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="ToString`0" priority="12" />
+      <Item value="Name" priority="0" />
+      <Item value="MakeGenericType`0" priority="2" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UDOs.Rectangle">
+      <Item value="GetBoundingRectangle`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Utils.SensorInfo">
+      <Item value="GeogLocation" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.RawFileParser">
+      <Item value="del" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Memory.BootUp">
+      <Item value="GetInstance`0" priority="2" />
+      <Item value="FreewayLinkLocDic" priority="1" />
+      <Item value="MaxFreewayConfigID" priority="0" />
+      <Item value="ArterialLinkLocDic" priority="1" />
+      <Item value="maxArterialConfigID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Memory.BootUp">
+      <Item value="GetFreewaySensInfo`0" priority="2" />
+      <Item value="freewayLinkLocDic" priority="2" />
+      <Item value="GetArterialSensInfo`0" priority="0" />
+      <Item value="CheckFreewaySensor`0" priority="1" />
+      <Item value="FORDEMO`0" priority="0" />
+      <Item value="AverageForOneMinute`0" priority="0" />
+      <Item value="AllAverage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.ArterialParser">
+      <Item value="Init`0" priority="0" />
+      <Item value="IsNotEndElement`0" priority="0" />
+      <Item value="ReadARecord`0" priority="0" />
+      <Item value="ReadNode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="5" />
+      <Item value="TryParse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.ArterialInventoryParser">
+      <Item value="ReadASensorInfo`0" priority="0" />
+      <Item value="SpringOverHeaders`0" priority="0" />
+      <Item value="XMLLoaded`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.ArterialSensor">
+      <Item value="ID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Utils.Constants">
+      <Item value="GetConfigurationFileCulture`0" priority="0" />
+      <Item value="FreewayUpdateRate" priority="0" />
+      <Item value="ArterialUpdateRate" priority="0" />
+      <Item value="ArterialInventoryUpdateRate" priority="0" />
+      <Item value="EventUpdateRate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Parsers.RIITSDataTypes">
+      <Item value="Arterial" priority="0" />
+      <Item value="ArterialInventory" priority="0" />
+      <Item value="CHPEvent" priority="0" />
+      <Item value="RIITSEvent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BaseOutputAdapter.SensorSpeedOutputElement">
+      <Item value="SensorId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.PointEvent">
+      <Item value="GetField`0" priority="4" />
+      <Item value="SetField`0" priority="1" />
+      <Item value="StartTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:T">
+      <Item value="Initialize`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventTypes.FreewaySensorSpeedOutputElement">
+      <Item value="SensorId" priority="2" />
+      <Item value="StartTime" priority="5" />
+      <Item value="ConfigId" priority="0" />
+      <Item value="Hovspeed" priority="1" />
+      <Item value="Occupancy" priority="1" />
+      <Item value="Volume" priority="1" />
+      <Item value="Link_Status" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.FileMediaWriter">
+      <Item value="filePath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.MediaWriter">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyMemory.LookupTable`1">
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="GetRecord`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.IOutputMessage`1">
+      <Item value="CreateMessage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.TrafficOutputConfig">
+      <Item value="OutputMediaType" priority="6" />
+      <Item value="OutputMediaConfig" priority="2" />
+      <Item value="SourceDataType" priority="5" />
+      <Item value="OutputType" priority="0" />
+      <Item value="OutputMessageConfig" priority="1" />
+      <Item value="OutputMessageType" priority="0" />
+      <Item value="OutputFileName" priority="1" />
+      <Item value="OutputFieldOrders" priority="1" />
+      <Item value="TableName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventTypes.OutputMediaType">
+      <Item value="ToString`0" priority="5" />
+      <Item value="GetType`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.OutputMediaConfig">
+      <Item value="GetType`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EventTypes.OutputMessageType">
+      <Item value="XML" priority="1" />
+      <Item value="DB" priority="1" />
+      <Item value="TableStorage" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EventTypes.SourceDataType">
+      <Item value="Freeway" priority="3" />
+      <Item value="Arterial" priority="3" />
+      <Item value="Event" priority="3" />
+      <Item value="Bus" priority="2" />
+      <Item value="Cms" priority="1" />
+      <Item value="Rail" priority="2" />
+      <Item value="Ramp" priority="2" />
+      <Item value="TravelTime" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventTypes.IOutputType">
+      <Item value="GetType`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.XMLMessageConfig">
+      <Item value="OutputFieldOrders" priority="1" />
+      <Item value="Header" priority="1" />
+      <Item value="RootName" priority="0" />
+      <Item value="OtherTopStories" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EventTypes.OutputMediaType">
+      <Item value="File" priority="0" />
+      <Item value="ODBC" priority="0" />
+      <Item value="Cloud" priority="0" />
+      <Item value="SQLAzure" priority="1" />
+      <Item value="LocalDB" priority="1" />
+      <Item value="AzureTable" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.OutputMessageConfig">
+      <Item value="OutputFieldOrders" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventTypes.OutputMessageType">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventTypes.SourceDataType">
+      <Item value="ToString`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="ExecuteNonQuery`0" priority="0" />
+      <Item value="ExecuteScalar`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Close`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.SQLMessageConfig">
+      <Item value="TableName" priority="0" />
+      <Item value="OutputFieldOrders" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="1" />
+      <Item value="ToString`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.CloudMediaWriter">
+      <Item value="connString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Application">
+      <Item value="CreateInputAdapter`1" priority="0" />
+      <Item value="CreateOutputAdapter`1" priority="0" />
+      <Item value="CreateQuery`0" priority="2" />
+      <Item value="CreateQueryTemplate`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Linq.CepStream`1">
+      <Item value="ToPublishedStreamQuery`0" priority="1" />
+      <Item value="ToQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventTypes.ArterialSensorSpeedOutputElement">
+      <Item value="SensorId" priority="1" />
+      <Item value="StartTime" priority="0" />
+      <Item value="Occupancy" priority="0" />
+      <Item value="Speed" priority="0" />
+      <Item value="Volume" priority="0" />
+      <Item value="Hovspeed" priority="0" />
+      <Item value="Link_Status" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SIServers.QueryStrings">
+      <Item value="FreewayPassThruQuery" priority="0" />
+      <Item value="FreewayFilteredQuery" priority="0" />
+      <Item value="AverageSpeedQTName" priority="0" />
+      <Item value="ArterialFilteredQueryName" priority="0" />
+      <Item value="EventPassThruQueryName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.BaseFileParser">
+      <Item value="XMLLoaded`0" priority="2" />
+      <Item value="agency" priority="0" />
+      <Item value="StartTag" priority="1" />
+      <Item value="DataType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SIServers.StreamUtils">
+      <Item value="GetUnboundSelectedAreaStream`0" priority="0" />
+      <Item value="GetUnboundSelectedAreaArterialStream`0" priority="1" />
+      <Item value="GetQT`0" priority="0" />
+      <Item value="GetFilteredSensorSpeedStream`0" priority="1" />
+      <Item value="GetEventStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SIServers.FieldOrders">
+      <Item value="GetFreewayOutputSQLFieldOrders`0" priority="0" />
+      <Item value="GetArterialOutputSQLFieldOrders`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Parsers.RIITSArterialAgency">
+      <Item value="LADOT" priority="1" />
+      <Item value="Caltrans_D7" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Parsers.RIITSFreewayAgency">
+      <Item value="Caltrans_D7" priority="4" />
+      <Item value="CHP_LA" priority="1" />
+      <Item value="CHP_OC" priority="0" />
+      <Item value="Regional_LA" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Server.DBTableStrings">
+      <Item value="FreewayTableName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="7" />
+      <Item value="Key" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.Sensor">
+      <Item value="ID" priority="3" />
+      <Item value="OnStreet" priority="1" />
+      <Item value="FromStreet" priority="1" />
+      <Item value="ToStreet" priority="1" />
+      <Item value="Direction" priority="1" />
+      <Item value="GeogLocation" priority="3" />
+      <Item value="AffectedLanes" priority="2" />
+      <Item value="PostMile" priority="1" />
+      <Item value="City" priority="1" />
+      <Item value="AllFieldsEqual`0" priority="0" />
+      <Item value="Agency" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Utils.DBTableStrings">
+      <Item value="FreewayConfigTableName" priority="2" />
+      <Item value="ArterialConfigTableName" priority="0" />
+      <Item value="FreewayTableName" priority="0" />
+      <Item value="EventTableName" priority="0" />
+      <Item value="CmsTableName" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MediaWriters.CloudMediaWriter">
+      <Item value="ReadMaxConfigID`0" priority="0" />
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SIServers.OutputConfigUtils">
+      <Item value="GetSensorSpeedXMLArterialOutputConf`0" priority="0" />
+      <Item value="GetSensorSpeedAzureTableFreewayOutputConf`0" priority="0" />
+      <Item value="GetOracleEventOutputConf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlReader">
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextReader">
+      <Item value="ReadToEnd`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MediaWriters.FileMediaWriter">
+      <Item value="filePath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Types.SqlGeography">
+      <Item value="STIntersects`0" priority="0" />
+      <Item value="Lat" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlTypes.SqlBoolean">
+      <Item value="IsTrue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Odbc.OdbcConnection">
+      <Item value="Open`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Odbc.OdbcCommand">
+      <Item value="ExecuteReader`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Odbc.OdbcDataReader">
+      <Item value="Read`0" priority="1" />
+      <Item value="GetDouble`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="Close`0" priority="3" />
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="Write`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Decimal">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UDOs.InsideRectangle">
+      <Item value="config" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MediaWriters.AzureTableStorageMediaWriter`1">
+      <Item value="tableName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MyMemory.DBServices">
+      <Item value="RunCommand`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OracleClient.OracleCommand">
+      <Item value="ExecuteScalar`0" priority="0" />
+      <Item value="ExecuteOracleScalar`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DBServices.FieldOrders">
+      <Item value="GetFreewayConfigOutputSQLFieldOrders`0" priority="0" />
+      <Item value="GetArterialConfigOutputSQLFieldOrders`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OracleClient.OracleNumber">
+      <Item value="IsNull" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MyMemory.SensorEntityTuple">
+      <Item value="CalcPartition`0" priority="0" />
+      <Item value="CalcRowKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.CHPEventParser">
+      <Item value="_culture" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SIServers.InputConfigUtils">
+      <Item value="GetCHPEventInputConfig`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SIServers.QueryUtils">
+      <Item value="GetEventPassThroughQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Parsers.FreewayInventoryParser">
+      <Item value="startTag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.CepEventTypeField">
+      <Item value="Type" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Parsers.RIITSEventAgency">
+      <Item value="CHP_LA" priority="3" />
+      <Item value="Regional_LA" priority="4" />
+      <Item value="D7" priority="0" />
+      <Item value="Caltrans_D7" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Globalization.DateTimeStyles">
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OutputTypes.EventEntityTuple">
+      <Item value="Initialize`0" priority="0" />
+      <Item value="EventId" priority="0" />
+      <Item value="datetime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Utils.AzureTableStrings">
+      <Item value="ArterialConfigTableName" priority="0" />
+      <Item value="BusRoutesTableName" priority="0" />
+      <Item value="RailRoutesTableName" priority="0" />
+      <Item value="RampConfigTableName" priority="1" />
+      <Item value="TravelConfigTableName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.BusRoute">
+      <Item value="zones" priority="1" />
+      <Item value="routeDes" priority="1" />
+      <Item value="routeId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.RailRoute">
+      <Item value="routeId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.RampMeter">
+      <Item value="msID" priority="0" />
+      <Item value="rampType" priority="0" />
+      <Item value="latitude" priority="0" />
+      <Item value="longitude" priority="0" />
+      <Item value="OnStreet" priority="0" />
+      <Item value="FromStreet" priority="0" />
+      <Item value="ToStreet" priority="0" />
+      <Item value="Direction" priority="0" />
+      <Item value="City" priority="0" />
+      <Item value="PostMile" priority="0" />
+      <Item value="Agency" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.travelLinks">
+      <Item value="ID" priority="0" />
+      <Item value="route" priority="0" />
+      <Item value="Direction" priority="0" />
+      <Item value="linkType" priority="0" />
+      <Item value="beginID" priority="0" />
+      <Item value="endID" priority="0" />
+      <Item value="length" priority="0" />
+      <Item value="beginStreet" priority="0" />
+      <Item value="beginLat" priority="0" />
+      <Item value="beginLon" priority="0" />
+      <Item value="endStreet" priority="0" />
+      <Item value="endLat" priority="0" />
+      <Item value="endLon" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Adapters.AdapterException">
+      <Item value="Message" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Adapters.AdapterState">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Oracle.DataAccess.Client.OracleCommand">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Oracle.DataAccess.Client.OracleConnection">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.IDbTransaction">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OutputTypes.CmsEntityElement">
+      <Item value="Id" priority="0" />
+      <Item value="Date" priority="0" />
+      <Item value="Phase1Line1" priority="0" />
+      <Item value="Phase1Line2" priority="0" />
+      <Item value="Phase1Line3" priority="0" />
+      <Item value="Phase2Line1" priority="0" />
+      <Item value="Phase2Line2" priority="0" />
+      <Item value="Phase2Line3" priority="0" />
+      <Item value="State" priority="0" />
+      <Item value="DeviceStatus" priority="0" />
+      <Item value="Time" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.MailMessage">
+      <Item value="Bcc" priority="0" />
+      <Item value="Body" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExceptionReporter.ExceptionEmailReporter">
+      <Item value="SendEmailThread`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.HashSet`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OutputTypes.FreewaySensorSpeedOutputElement">
+      <Item value="SensorId" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OutputTypes.BusGPSOutputElement">
+      <Item value="busId" priority="0" />
+      <Item value="brtFlag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OutputTypes.RailGPSOutputElement">
+      <Item value="trainId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OutputTypes.TravelLinksOutputElement">
+      <Item value="travelId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OutputTypes.RampOutputElement">
+      <Item value="rampId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExceptionReporter.ExceptionOracleWriter">
+      <Item value="user" priority="0" />
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExceptionReporter.ExceptionDatabaseReporter">
+      <Item value="SendDatabaseThread`0" priority="0" />
+      <Item value="SendDatabaseDuplicates`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ExceptionReporter.ExceptionDatabaseReporter">
+      <Item value="DataTypeConverter`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Parsers.CmsDevice">
+      <Item value="Agency" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OutputTypes.CmsOutputElement">
+      <Item value="Agency" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,291 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 03/22/2011
+ */
+
+/**
+ * Updated by Bei(Penny) Pan (beipan@usc.edu) 
+ * Purpose: 
+ * 1. Delete WSDL(Congestion/Event)Connector, integrate WSDLConnector into one function
+ * 2. Update all the references of WSDL(Congestion/Event)Connector
+ * 2. Add Web services
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 04/18/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.IO;
+using System.Xml;
+using Parser;
+using Parsers.CongestionService1;
+using Parsers.IAI_EventService;
+using Parsers.BusService1;
+using Parsers.RailService1;
+using Parsers.RampService1;
+using Parsers.TravelTimeService1;
+
+namespace Parsers
+{
+    public abstract class BaseFileParser
+    {
+        #region Delegates
+
+        public delegate string DataFetcher();
+
+        #endregion
+
+        public string StartTag;
+        protected string all;
+        protected DataFetcher del;
+        protected int expectedFieldNum;
+        protected bool fileLoaded;
+        protected XmlTextReader textReader;
+        protected string agency;
+        protected long last_updated_time;
+
+        public BaseFileParser(string agency, string startTag)
+        {
+            this.agency = agency;
+            StartTag = startTag;
+            last_updated_time = 0;
+        }
+        protected bool NoData(string all)
+        {
+            return all == null || all == "";
+        }
+
+        private int tempJalal = 0;
+        public void Init()
+        {
+            all = del();
+
+            //TextWriter tempJJTextWriter = new StreamWriter(@"C:\just for test\orig\" + tempJalal + ".xml");
+            //tempJJTextWriter.Write(all);
+            //tempJalal++;
+            //tempJJTextWriter.Close();
+            //var temp = new StreamWriter(@"c:\jj.xml");
+            //temp.Write(all);
+            //temp.Close();
+            if (NoData(all))
+            {
+                fileLoaded = false;
+
+                return;
+            }
+            textReader = new XmlTextReader(new StringReader(all));
+            fileLoaded = true;
+        }
+
+        public abstract List<string> ReadARecord();
+
+        public DateTime SpringOverHeaders(CultureInfo _culture)
+        {
+            DateTime packetDataTime = DateTime.MinValue;
+            DateTime date = DateTime.MinValue, time;
+
+            bool IsFirstDate = true;
+            bool IsFirstTime = true;
+
+            bool goOn = true;
+            try
+            {
+                while (goOn && textReader.Read())
+                {
+                    if (textReader.Name == StartTag)
+                        goOn = false;
+                    else if (textReader.Name == "date")
+                    {
+                        textReader.Read();
+                        //if (IsFirstDate)
+                        {
+                            date = DateTime.ParseExact(textReader.Value, "yyyyMMdd",
+                                                   _culture);
+                            //IsFirstDate = false;
+                        }
+                        textReader.Read(); //closing tag
+                    }
+                    else if (textReader.Name == "time")
+                    {
+                        textReader.Read();
+                        //if (IsFirstTime)
+                        {
+                            time = DateTime.ParseExact(textReader.Value, "HHmmssff", _culture);
+
+                            packetDataTime = new DateTime(date.Year, date.Month, date.Day, time.Hour, time.Minute, time.Second);
+                            Console.WriteLine("Time: " + time);
+
+
+                            if (!IsFirstTime)
+                            {
+
+                                long cur_time = time.Hour * 60 * 60 + time.Minute * 60 + time.Second;
+                                if (time.Hour == 0 && last_updated_time > 12 * 60 * 60)
+                                {
+                                    last_updated_time = cur_time;
+                                }
+                                else if (cur_time < last_updated_time)     // < or <=
+                                {
+                                    Console.WriteLine("Error in BaseFileParser: " + StartTag);
+                                    //Console.WriteLine(StartTag);
+                                    return default(DateTime);
+                                }
+                                else
+                                {
+                                    last_updated_time = cur_time;
+                                }
+                                if (StartTag == "trains")
+                                {
+                                    StreamWriter temp = new StreamWriter("trains_time.txt", true);
+                                    temp.WriteLine("Time: " + time);
+                                    temp.Close();
+                                }
+
+                                if (StartTag == "buses")
+                                {
+                                    StreamWriter temp = new StreamWriter("bus_time.txt", true);
+                                    temp.WriteLine("Time: " + time);
+                                    temp.Close();
+                                }
+                            }
+                            IsFirstTime = false;
+                        }
+                        textReader.Read(); //closing tag
+                    }
+                }
+            }
+            catch (XmlException e)
+            {
+                // root element not found (because the file is empty)
+                return default(DateTime);
+            }
+            return packetDataTime;
+        }
+
+        public void CloseFile()
+        {
+            if (textReader != null)
+                textReader.Close();
+            fileLoaded = false;
+        }
+
+        public void ReadNode()
+        {
+            textReader.Read();
+        }
+
+        public bool IsNotEndElement()
+        {
+            return textReader.NodeType != XmlNodeType.EndElement;
+        }
+
+        // this function has two uses: 1) when we are loading xml for the first time (used in adapter); 2) when the RIITS server has not generated an xml file and as a result, we get a SOAP Exception because the 
+        // document is not found. In such a case, the adapter should not generate any events.
+        public bool XMLLoaded()
+        {
+            return fileLoaded;
+        }
+
+        private static int arterialReplyaCounter = -1;
+        protected static string ArterialDataReplayer()
+        {
+            TextReader reader = new StreamReader(@"C:\SavedData\ArterialRealTimeLADOT\" + arterialReplyaCounter + ".xml");
+            arterialReplyaCounter++;
+            return reader.ReadToEnd();
+        }
+
+        private static int freewayReplayCounter = 36;//3050;// 2741;//1055;
+        protected static string FreewayDataReplayer()
+        {
+            //string path= @"C:\SavedData\FreewayRealTime\" + freewayReplayCounter + ".xml";
+            string path = @"C:\just for test\orig\" + freewayReplayCounter + ".xml";
+            TextReader reader = new StreamReader(path);
+            freewayReplayCounter++;
+            return reader.ReadToEnd();
+
+
+        }
+
+        private static void FileWriter(string fileName, string content)
+        {
+            StreamWriter wr = new StreamWriter(fileName);
+            wr.Write(content);
+            wr.Close();
+        }
+
+        private static void FileExpendedWriter(string fileName, string content)
+        {
+            StreamWriter wr = new StreamWriter(fileName, true);
+            wr.Write(content);
+            wr.Close();
+        }
+
+        protected static string WSDLConnector(String requestType, String issueAgency, String verbosity)
+        {
+            String result = null;
+
+
+            Console.Out.WriteLine(DateTime.Now + " : getting " + requestType + " " + verbosity + " from " +
+                                  issueAgency);
+            try
+            {
+                switch (requestType)
+                {
+                    case "congestionArterial":
+                    case "congestionFreeway":
+                        var vdsSer2 = new CongestionServiceService();
+                        result = vdsSer2.getTrafficInfo(XmlUtil.getUser(), XmlUtil.getPass(),
+                                               XmlUtil.getMsgReq(requestType, issueAgency, verbosity));
+                        FileWriter(requestType + ".xml", result);
+                        break;
+                    case "bus":
+                        var vdsSer1 = new BusServiceService();
+                        result = vdsSer1.getBusInfo(XmlUtil.getUser(), XmlUtil.getPass(),
+                                               XmlUtil.getMsgReq(requestType, issueAgency, verbosity));
+                        FileWriter("bus.xml", result);
+                        break;
+                    case "rail":
+                        var vdsSer3 = new RailServiceService();
+                        result = vdsSer3.getRailInfo(XmlUtil.getUser(), XmlUtil.getPass(),
+                                               XmlUtil.getMsgReq(requestType, issueAgency, verbosity));
+                        FileWriter("rail.xml", result);
+                        break;
+                    case "rms":
+                        var vdsSer4 = new RmsServiceService();
+                        result = vdsSer4.getRmsInfo(XmlUtil.getUser(), XmlUtil.getPass(),
+                                               XmlUtil.getMsgReq(requestType, issueAgency, verbosity));
+                        FileWriter("rms.xml", result);
+                        break;
+                    case "travelTimes":
+                        var vdsSer5 = new TravelTimesServiceService();
+                        result = vdsSer5.getTravelTimeInfo(XmlUtil.getUser(), XmlUtil.getPass(),
+                                               XmlUtil.getMsgReq(requestType, issueAgency, verbosity));
+                        FileWriter("travelTimes.xml", result);
+                        break;
+                    case "event":
+                        var vdsSer6 = new EventServiceService();
+                        result = vdsSer6.getEventInfo(XmlUtil.getUser(), XmlUtil.getPass(),
+                                               XmlUtil.getMsgReq(requestType, issueAgency, verbosity));
+
+                        break;
+
+                }
+                Console.Out.WriteLine(DateTime.Now + " : got " + requestType + " " + verbosity + " from " +
+                                      issueAgency);
+
+
+            }
+            catch (Exception e)
+            {
+                Console.Out.WriteLine(e.Message);
+                FileExpendedWriter("WSDL" + requestType.ToString() + "_" + verbosity.ToString() + ".txt", DateTime.Now.ToString() + " error:" + e.Message);
+            }
+
+            return result;
+        }
+    }
+
+
+}

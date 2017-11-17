@@ -1,0 +1,493 @@
+C:\Users\afsin\Documents\Visual Studio 2008\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\afsin\Documents\Visual Studio 2008\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\afsin\Documents\Visual Studio 2008\Projects\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\afsin\Documents\Visual Studio 2008\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\afsin\Documents\Visual Studio 2008\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\jjInsight\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\jjInsight\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\jjInsight\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\jjInsight\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\jjInsight\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\bin\ExplicitServer.exe
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\bin\TextFileInputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\bin\TextFileOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\bin\TextFileInputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\bin\TextFileOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\averageQuery\WebApplication1\bin\ExplicitServer.pdb
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\WebApplication1.dll
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\WebApplication1.pdb
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\Server.dll
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\TrafficApp.exe
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\UDOs.dll
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\Utils.dll
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\EventTypes.dll
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\Server.pdb
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\TrafficApp.pdb
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\UDOs.pdb
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\Utils.pdb
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\EventTypes.pdb
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\t-seykaz\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Solution\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Colin Solution\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Desktop\Mohamed\VLDB 2010 Demo\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\VLDB 2010 Demo\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\MyMemory.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\WSDLInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\BaseOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\MyMemory.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\WSDLInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\BaseOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\MyMemory.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\WSDLInputAdapters.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\Parsers.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\MyMemory.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\WSDLInputAdapters.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\Parsers.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\MyMemory.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\WSDLInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\MediaWriters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\MyMemory.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\WSDLInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\bin\MediaWriters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\WSDLInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\MyMemory.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\MediaWriters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\WSDLInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\MyMemory.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\bin\MediaWriters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS - Copy\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\MyMemory.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\WSDLInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\MediaWriters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\MyMemory.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\WSDLInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\bin\MediaWriters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\WSDLInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\MyMemory.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\MediaWriters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\WSDLInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\MyMemory.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\bin\MediaWriters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\Server.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\TrafficApp.exe
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\UDOs.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\Utils.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\EventTypes.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\WSDLInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\MyMemory.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\ADMS.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\MediaWriters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\Server.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\TrafficApp.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\UDOs.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\Utils.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\EventTypes.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\WSDLInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\MyMemory.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\ADMS.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\MediaWriters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\DBServices.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\WebApplication1\bin\DBServices.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\WebApplication1.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\WebApplication1.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\Server.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\TrafficApp.exe
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\UDOs.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\Utils.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\EventTypes.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\XMLOutputAdapter.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\BaseTrafficInputAdapters.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\SocketInputAdapter.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\Parsers.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\MyMemory.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\WSDLInputAdapters.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\DBServices.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\ADMS.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\MediaWriters.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\Server.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\TrafficApp.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\UDOs.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\Utils.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\EventTypes.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\XMLOutputAdapter.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\SocketInputAdapter.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\Parsers.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\MyMemory.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\WSDLInputAdapters.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\DBServices.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\ADMS.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\MediaWriters.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\obj\Debug\WebApplication1.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\CustomOracleGeoType.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\WebApplication1\bin\CustomOracleGeoType.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\WebApplication1.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\WebApplication1.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\Server.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\TrafficApp.exe
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\UDOs.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\Utils.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\EventTypes.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\BaseTrafficInputAdapters.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\Parsers.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\MyMemory.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\WSDLInputAdapters.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\DBServices.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\ADMS.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\MediaWriters.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\CustomOracleGeoType.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\Server.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\TrafficApp.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\UDOs.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\Utils.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\EventTypes.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\Parsers.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\MyMemory.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\WSDLInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\DBServices.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\ADMS.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\MediaWriters.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\bin\CustomOracleGeoType.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\WebApplication1.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\WebApplication1.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\Server.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\TrafficApp.exe
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\UDOs.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\Utils.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\BaseTrafficInputAdapters.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\Parsers.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\EventTypes.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\WSDLInputAdapters.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\MyMemory.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\DBServices.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\ADMS.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\MediaWriters.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\CustomOracleGeoType.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\Server.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\TrafficApp.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\UDOs.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\Utils.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\Parsers.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\EventTypes.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\WSDLInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\MyMemory.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\DBServices.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\ADMS.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\MediaWriters.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\bin\CustomOracleGeoType.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\WebApplication1.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\WebApplication1.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\Server.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\TrafficApp.exe
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\UDOs.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\Utils.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\EventTypes.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\XMLOutputAdapter.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\BaseTrafficInputAdapters.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\SocketInputAdapter.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\Parsers.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\MyMemory.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\ExceptionReporter.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\DBServices.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\WSDLInputAdapters.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\ADMS.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\MediaWriters.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\CustomOracleGeoType.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\Server.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\TrafficApp.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\UDOs.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\Utils.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\EventTypes.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\XMLOutputAdapter.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\BaseTrafficInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\SocketInputAdapter.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\Parsers.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\MyMemory.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\ExceptionReporter.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\DBServices.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\WSDLInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\ADMS.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\MediaWriters.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\bin\CustomOracleGeoType.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\StreamInsight\Desktop\mta_svn\WebApplication1\obj\Debug\WebApplication1.pdb

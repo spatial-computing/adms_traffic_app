@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://rtsisp01.riits.net/ISP/services/ISP_CctvService" xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://rtsisp01.riits.net/ISP/services/ISP_CctvService" xmlns:intf="http://rtsisp01.riits.net/ISP/services/ISP_CctvService" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <wsdl:message name="getCctvInfoRequest">
+    <wsdl:part name="userName" type="xsd:string"/>
+    <wsdl:part name="userPass" type="xsd:string"/>
+    <wsdl:part name="xmlMessageRequest" type="xsd:string"/>
+  </wsdl:message>
+  <wsdl:message name="initializeRequest">
+    <wsdl:part name="agencyName" type="xsd:string"/>
+    <wsdl:part name="serviceName" type="xsd:string"/>
+    <wsdl:part name="configFile" type="xsd:string"/>
+  </wsdl:message>
+  <wsdl:message name="refreshUsersRequest">
+    <wsdl:part name="usr" type="xsd:string"/>
+    <wsdl:part name="pwd" type="xsd:string"/>
+    <wsdl:part name="agency" type="xsd:string"/>
+  </wsdl:message>
+  <wsdl:message name="getCctvInfoResponse">
+    <wsdl:part name="getCctvInfoReturn" type="xsd:string"/>
+  </wsdl:message>
+  <wsdl:message name="refreshUsersResponse">
+  </wsdl:message>
+  <wsdl:message name="initializeResponse">
+  </wsdl:message>
+  <wsdl:portType name="CctvService">
+    <wsdl:operation name="initialize" parameterOrder="agencyName serviceName configFile">
+      <wsdl:input message="impl:initializeRequest" name="initializeRequest"/>
+      <wsdl:output message="impl:initializeResponse" name="initializeResponse"/>
+    </wsdl:operation>
+    <wsdl:operation name="getCctvInfo" parameterOrder="userName userPass xmlMessageRequest">
+      <wsdl:input message="impl:getCctvInfoRequest" name="getCctvInfoRequest"/>
+      <wsdl:output message="impl:getCctvInfoResponse" name="getCctvInfoResponse"/>
+    </wsdl:operation>
+    <wsdl:operation name="refreshUsers" parameterOrder="usr pwd agency">
+      <wsdl:input message="impl:refreshUsersRequest" name="refreshUsersRequest"/>
+      <wsdl:output message="impl:refreshUsersResponse" name="refreshUsersResponse"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ISP_CctvServiceSoapBinding" type="impl:CctvService">
+    <wsdlsoap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="initialize">
+      <wsdlsoap:operation soapAction=""/>
+      <wsdl:input name="initializeRequest">
+        <wsdlsoap:body encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://external.regional.services.nateng.com" use="encoded"/>
+      </wsdl:input>
+      <wsdl:output name="initializeResponse">
+        <wsdlsoap:body encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://rtsisp01.riits.net/ISP/services/ISP_CctvService" use="encoded"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCctvInfo">
+      <wsdlsoap:operation soapAction=""/>
+      <wsdl:input name="getCctvInfoRequest">
+        <wsdlsoap:body encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://external.regional.services.nateng.com" use="encoded"/>
+      </wsdl:input>
+      <wsdl:output name="getCctvInfoResponse">
+        <wsdlsoap:body encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://rtsisp01.riits.net/ISP/services/ISP_CctvService" use="encoded"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="refreshUsers">
+      <wsdlsoap:operation soapAction=""/>
+      <wsdl:input name="refreshUsersRequest">
+        <wsdlsoap:body encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://services.nateng.com" use="encoded"/>
+      </wsdl:input>
+      <wsdl:output name="refreshUsersResponse">
+        <wsdlsoap:body encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" namespace="http://rtsisp01.riits.net/ISP/services/ISP_CctvService" use="encoded"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CctvServiceService">
+    <wsdl:port binding="impl:ISP_CctvServiceSoapBinding" name="ISP_CctvService">
+      <wsdlsoap:address location="http://rtsisp01.riits.net/ISP/services/ISP_CctvService"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

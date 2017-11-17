@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/mta/!svn/ver/1/Utils
+END
+Utilities.cs
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/mta/!svn/ver/1/Utils/Utilities.cs
+END
+Utils.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/mta/!svn/ver/1/Utils/Utils.csproj
+END
+Constants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/mta/!svn/ver/1/Utils/Constants.cs
+END
+DBTableStrings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mta/!svn/ver/1/Utils/DBTableStrings.cs
+END
+AzureTableStrings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mta/!svn/ver/1/Utils/AzureTableStrings.cs
+END
+Utils.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mta/!svn/ver/1/Utils/Utils.csproj.user
+END

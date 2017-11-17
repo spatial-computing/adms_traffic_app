@@ -1,0 +1,29 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 03/22/2011
+ */
+
+using System;
+using Parser;
+using Parsers.CongestionService1;
+
+namespace Parsers
+{
+    public class ArterialParser : FreewayParser
+    {
+        public ArterialParser(string agency)
+            : base(agency)
+        {
+            expectedFieldNum = 6;
+            del = FetchData;
+        }
+
+        public  string FetchData()
+        {
+            //return ArterialDataReplayer(); //todo: comment soon.
+            return WSDLConnector("congestionArterial", agency, "real-time");
+
+        }
+    }
+}

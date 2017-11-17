@@ -1,0 +1,796 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="0A66F943-9756-4995-8EE7-8159CF8A3CEF/d:Properties/f:AssemblyInfo.cs" caret="765" fromTop="16" />
+      <File id="A47F0D5F-5B34-44D2-87D8-05904E578283/f:SocketInputFactory.cs" caret="1641" fromTop="16" />
+      <File id="DF182443-0852-4CAB-9389-79E93374FA33/f:UTMConverter.cs" caret="6671" fromTop="16" />
+      <File id="DF182443-0852-4CAB-9389-79E93374FA33/f:Utilities.cs" caret="1648" fromTop="14" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:Web.config" caret="594" fromTop="14" />
+      <File id="0A66F943-9756-4995-8EE7-8159CF8A3CEF/f:SyntheticDataSender.cs" caret="951" fromTop="26" />
+      <File id="80B7A50F-242C-414C-A9FD-731F8A5E020A/f:TrafficSensorReading.cs" caret="833" fromTop="8" />
+      <File id="EA234AB9-57A5-46A4-A5E1-079B041D2440/f:PCACoefLoader.cs" caret="5363" fromTop="32" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:style.css" caret="580" fromTop="17" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:jquery-1.3.2.min.js" caret="50931" fromTop="17" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:jquery-ui.css" caret="4376" fromTop="17" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:jquery-ui-custom.min.js" caret="159176" fromTop="17" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:BingMap.aspx" caret="0" fromTop="0" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:BingMap.aspx.designer.cs" caret="0" fromTop="0" />
+      <File id="DF182443-0852-4CAB-9389-79E93374FA33/f:Constants.cs" caret="632" fromTop="14" />
+      <File id="0A66F943-9756-4995-8EE7-8159CF8A3CEF/f:Program.cs" caret="491" fromTop="12" />
+      <File id="F2A49BB2-41B2-44FC-B233-9FFD1996B0C9/f:XMLOutputFactory.cs" caret="1031" fromTop="13" />
+      <File id="0A66F943-9756-4995-8EE7-8159CF8A3CEF/f:RealArchivedDataSender.cs" caret="1229" fromTop="25" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:handlers.js" caret="1800" fromTop="17" />
+      <File id="A47F0D5F-5B34-44D2-87D8-05904E578283/f:SocketPointInput.cs" caret="15396" fromTop="0" />
+      <File id="DB854CCA-2A72-4D77-B565-EC456557B443/f:jjExtensibilityMethods.cs" caret="3412" fromTop="19" />
+      <File id="3A18988B-AB34-4AA3-B2BB-F71B2A14FEAC/f:BootUp.cs" caret="11084" fromTop="20" />
+      <File id="EA234AB9-57A5-46A4-A5E1-079B041D2440/f:PCA.cs" caret="311" fromTop="12" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:BingMap.aspx.cs" caret="1566" fromTop="12" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="2073" fromTop="13" />
+      <File id="F73F9440-A2D4-4258-95BE-5C6D5D4CB0A6/f:BaseFileParser.cs" caret="1688" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DB854CCA-2A72-4D77-B565-EC456557B443/f:jjExtensibilityMethods.cs" caret="8062" fromTop="25" />
+      <File id="DB854CCA-2A72-4D77-B565-EC456557B443/f:jjExtensibilityMethods.cs" caret="6969" fromTop="24" />
+      <File id="F2A49BB2-41B2-44FC-B233-9FFD1996B0C9/f:XMLOutputFactory.cs" caret="1483" fromTop="19" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="18003" fromTop="16" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="18644" fromTop="30" />
+      <File id="0A66F943-9756-4995-8EE7-8159CF8A3CEF/f:RealArchivedDataSender.cs" caret="1229" fromTop="25" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:handlers.js" caret="1800" fromTop="17" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="368" fromTop="14" />
+      <File id="AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32/f:ExplicitServer.cs" caret="289" fromTop="9" />
+      <File id="510DF9CD-6D49-4F83-9D0B-A37B7472933E/f:BingMap.aspx.cs" caret="1566" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="45" />
+      <Item value="SocketInputConfig`0" priority="1" />
+      <Item value="SocketPointInput`0" priority="1" />
+      <Item value="throw" priority="7" />
+      <Item value="new" priority="54" />
+      <Item value="NotImplementedException" priority="2" />
+      <Item value="string" priority="6" />
+      <Item value="int" priority="51" />
+      <Item value="private" priority="22" />
+      <Item value="String`0" priority="40" />
+      <Item value="if" priority="26" />
+      <Item value="configInfo" priority="4" />
+      <Item value="null" priority="16" />
+      <Item value="ArgumentException" priority="3" />
+      <Item value="NonSerializedAttribute`0" priority="0" />
+      <Item value="IP" priority="2" />
+      <Item value="port" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="ipAd" priority="4" />
+      <Item value="IPAddress`0" priority="1" />
+      <Item value="sockListener" priority="1" />
+      <Item value="PointEvent`0" priority="0" />
+      <Item value="packetDataTime" priority="2" />
+      <Item value="_culture" priority="0" />
+      <Item value="TimeSpan`0" priority="7" />
+      <Item value="DateTimeOffset" priority="3" />
+      <Item value="break" priority="1" />
+      <Item value="static" priority="10" />
+      <Item value="float" priority="1" />
+      <Item value="double" priority="43" />
+      <Item value="return" priority="34" />
+      <Item value="kmh" priority="0" />
+      <Item value="Utils" priority="1" />
+      <Item value="Utilities`0" priority="12" />
+      <Item value="e" priority="6" />
+      <Item value="Config" priority="2" />
+      <Item value="ExplicitServer`0" priority="5" />
+      <Item value="ListOfSensors`0" priority="4" />
+      <Item value="Microsoft" priority="2" />
+      <Item value="ComplexEventProcessing" priority="1" />
+      <Item value="Server`0" priority="2" />
+      <Item value="Delimiter" priority="0" />
+      <Item value="ServerIP" priority="0" />
+      <Item value="ServerPort" priority="1" />
+      <Item value="XmlOutputConfig`0" priority="2" />
+      <Item value="ExplicitServer" priority="0" />
+      <Item value="DBAddress" priority="1" />
+      <Item value="expServer" priority="1" />
+      <Item value="DateTimeOffset`0" priority="12" />
+      <Item value="tempOfset" priority="0" />
+      <Item value="avgSpdForSltArea" priority="0" />
+      <Item value="socketInputAdapter" priority="0" />
+      <Item value="xmlSensorOutputAdapter" priority="0" />
+      <Item value="bool" priority="3" />
+      <Item value="false" priority="0" />
+      <Item value="result" priority="46" />
+      <Item value="StreamWriter" priority="3" />
+      <Item value="outputDirectory" priority="3" />
+      <Item value="void" priority="10" />
+      <Item value="SyntheticDataSender`0" priority="1" />
+      <Item value="Thread" priority="1" />
+      <Item value="ThreadStart" priority="1" />
+      <Item value="sender" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="Thread`0" priority="5" />
+      <Item value="TcpClient`0" priority="1" />
+      <Item value="TcpClient" priority="0" />
+      <Item value="sock" priority="1" />
+      <Item value="data" priority="2" />
+      <Item value="Console`0" priority="2" />
+      <Item value="QueryTemplate`0" priority="2" />
+      <Item value="sensorSpeed" priority="0" />
+      <Item value="query1Template" priority="0" />
+      <Item value="query2Template" priority="0" />
+      <Item value="UDOs" priority="3" />
+      <Item value="query2" priority="2" />
+      <Item value="StreamWriter`0" priority="2" />
+      <Item value="temp" priority="5" />
+      <Item value="all" priority="3" />
+      <Item value="TrafficSensorReading`0" priority="17" />
+      <Item value="TrafficSensorReading" priority="1" />
+      <Item value="hov" priority="0" />
+      <Item value="HovSpeed" priority="0" />
+      <Item value="hovSp" priority="0" />
+      <Item value="LinkDataStatus" priority="0" />
+      <Item value="linkStatus" priority="0" />
+      <Item value="occ" priority="1" />
+      <Item value="Occupancy" priority="0" />
+      <Item value="SensorId" priority="1" />
+      <Item value="sensId" priority="0" />
+      <Item value="Speed" priority="4" />
+      <Item value="sp" priority="1" />
+      <Item value="Volume" priority="0" />
+      <Item value="vol" priority="0" />
+      <Item value="linkDataStatus" priority="0" />
+      <Item value="List" priority="7" />
+      <Item value="ParseXML`0" priority="0" />
+      <Item value="SyntheticDataSender" priority="0" />
+      <Item value="testData" priority="0" />
+      <Item value="XmlDocument`0" priority="0" />
+      <Item value="XmlDocument" priority="0" />
+      <Item value="xDoc" priority="1" />
+      <Item value="DateTime`0" priority="8" />
+      <Item value="now" priority="2" />
+      <Item value="for" priority="9" />
+      <Item value="i" priority="35" />
+      <Item value="allEvents" priority="1" />
+      <Item value="foreach" priority="7" />
+      <Item value="in" priority="2" />
+      <Item value="sensor" priority="2" />
+      <Item value="Random`0" priority="0" />
+      <Item value="Random" priority="0" />
+      <Item value="rnd" priority="0" />
+      <Item value="tcpclnt" priority="1" />
+      <Item value="System" priority="1" />
+      <Item value="Threading" priority="0" />
+      <Item value="SensorInfo" priority="0" />
+      <Item value="StringWriter`0" priority="0" />
+      <Item value="tempjj" priority="1" />
+      <Item value="buffer" priority="1" />
+      <Item value="where" priority="2" />
+      <Item value="eventWindow" priority="0" />
+      <Item value="oneGroup" priority="0" />
+      <Item value="ev" priority="25" />
+      <Item value="using" priority="1" />
+      <Item value="ApplicationException`0" priority="0" />
+      <Item value="Serializer" priority="0" />
+      <Item value="BinaryFormatter" priority="0" />
+      <Item value="bformatter" priority="0" />
+      <Item value="FileAddress" priority="0" />
+      <Item value="Stream`0" priority="1" />
+      <Item value="stream" priority="0" />
+      <Item value="linkLocDic" priority="0" />
+      <Item value="sensorIDs" priority="9" />
+      <Item value="SensorInfo`0" priority="3" />
+      <Item value="lats" priority="0" />
+      <Item value="longs" priority="0" />
+      <Item value="dircs" priority="0" />
+      <Item value="from" priority="18" />
+      <Item value="Utility`0" priority="0" />
+      <Item value="lat1" priority="1" />
+      <Item value="lng1" priority="0" />
+      <Item value="lat2" priority="2" />
+      <Item value="InvalidProgramException`0" priority="0" />
+      <Item value="Program`0" priority="0" />
+      <Item value="queryBinder" priority="0" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="catch" priority="1" />
+      <Item value="ThreadStaticAttribute`0" priority="1" />
+      <Item value="jj" priority="7" />
+      <Item value="thr" priority="2" />
+      <Item value="collectingStats" priority="4" />
+      <Item value="currentServer" priority="5" />
+      <Item value="class" priority="11" />
+      <Item value="Expressions" priority="1" />
+      <Item value="upperLeftlat" priority="0" />
+      <Item value="upperLeftLong" priority="0" />
+      <Item value="lowerRightLong" priority="1" />
+      <Item value="this" priority="3" />
+      <Item value="events" priority="11" />
+      <Item value="Dictionary" priority="6" />
+      <Item value="allSensors" priority="2" />
+      <Item value="InsideRectangle`0" priority="1" />
+      <Item value="evt" priority="0" />
+      <Item value="alignment" priority="2" />
+      <Item value="WindowInputPolicy`0" priority="0" />
+      <Item value="HoppingWindowOutputPolicy`0" priority="3" />
+      <Item value="win" priority="6" />
+      <Item value="select" priority="14" />
+      <Item value="Rectangle" priority="0" />
+      <Item value="SqlGeometry`0" priority="1" />
+      <Item value="CepTimeSensitiveAggregate" priority="0" />
+      <Item value="time" priority="1" />
+      <Item value="PCAAverage`0" priority="1" />
+      <Item value="PCA`0" priority="10" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="instance" priority="8" />
+      <Item value="PCA" priority="1" />
+      <Item value="pcaFinder" priority="0" />
+      <Item value="aa" priority="2" />
+      <Item value="var" priority="12" />
+      <Item value="rawAvgSpdForSltArea" priority="0" />
+      <Item value="historicWeight" priority="1" />
+      <Item value="historicAvg" priority="1" />
+      <Item value="rawAvg" priority="0" />
+      <Item value="WeightedAverage`0" priority="0" />
+      <Item value="AvgSpdForSltArea" priority="3" />
+      <Item value="AvgSpdForSltAreaEvent" priority="1" />
+      <Item value="rawAverage" priority="1" />
+      <Item value="historicAverage" priority="1" />
+      <Item value="SnapshotWindowOutputPolicy`0" priority="1" />
+      <Item value="w" priority="3" />
+      <Item value="totalAverage" priority="2" />
+      <Item value="AverageSpeed`0" priority="15" />
+      <Item value="speed" priority="3" />
+      <Item value="avgOfAvgs" priority="1" />
+      <Item value="CepTimeSensitiveOperator" priority="1" />
+      <Item value="PCAPrediction`0" priority="5" />
+      <Item value="application" priority="2" />
+      <Item value="predictionResult" priority="0" />
+      <Item value="GetPredictionOutputConf`0" priority="0" />
+      <Item value="StartTime" priority="0" />
+      <Item value="offset" priority="7" />
+      <Item value="AverageSpeed" priority="0" />
+      <Item value="TimeSpan" priority="0" />
+      <Item value="averageStreamForPredictionQuery" priority="2" />
+      <Item value="query3Binder" priority="1" />
+      <Item value="query3" priority="4" />
+      <Item value="default" priority="3" />
+      <Item value="jjclass`0" priority="1" />
+      <Item value="tempResults" priority="1" />
+      <Item value="IntervalEvent&lt;AverageSpeed&gt;" priority="0" />
+      <Item value="first" priority="5" />
+      <Item value="CreateIntervalEvent`0" priority="0" />
+      <Item value="OnChanged`0" priority="0" />
+      <Item value="EventArgs" priority="0" />
+      <Item value="second" priority="1" />
+      <Item value="doubleClass`0" priority="6" />
+      <Item value="inputName" priority="0" />
+      <Item value="averageSpeedString" priority="0" />
+      <Item value="k" priority="4" />
+      <Item value="lastKMinutes" priority="2" />
+      <Item value="Application`0" priority="0" />
+      <Item value="StartQuery3`0" priority="0" />
+      <Item value="SetK`0" priority="0" />
+      <Item value="RealArchivedDataSender`0" priority="0" />
+      <Item value="StreamReader`0" priority="5" />
+      <Item value="TextReader`0" priority="9" />
+      <Item value="reader" priority="10" />
+      <Item value="writer" priority="3" />
+      <Item value="weight" priority="0" />
+      <Item value="predictionQuery" priority="1" />
+      <Item value="GeogLocation" priority="0" />
+      <Item value="SqlGeography`0" priority="1" />
+      <Item value="latitude" priority="0" />
+      <Item value="long" priority="0" />
+      <Item value="longitude" priority="0" />
+      <Item value="SRID" priority="0" />
+      <Item value="sensorId" priority="8" />
+      <Item value="contains" priority="1" />
+      <Item value="intersects" priority="1" />
+      <Item value="SqlBoolean`0" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="rectangle" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="Lat1" priority="0" />
+      <Item value="Lat2" priority="0" />
+      <Item value="Long1" priority="0" />
+      <Item value="long1" priority="1" />
+      <Item value="Long2" priority="0" />
+      <Item value="long2" priority="1" />
+      <Item value="Rect" priority="3" />
+      <Item value="geogLoc" priority="0" />
+      <Item value="minLat" priority="0" />
+      <Item value="maxLat" priority="0" />
+      <Item value="AppDomain`0" priority="0" />
+      <Item value="Path`0" priority="0" />
+      <Item value="InputDataPathk" priority="0" />
+      <Item value="loadedOnce" priority="0" />
+      <Item value="Array`0" priority="0" />
+      <Item value="allString" priority="1" />
+      <Item value="Double`0" priority="2" />
+      <Item value="allValues" priority="0" />
+      <Item value="File`0" priority="2" />
+      <Item value="PCACoefLoader`0" priority="10" />
+      <Item value="PCACoefLoader" priority="1" />
+      <Item value="try" priority="1" />
+      <Item value="char" priority="1" />
+      <Item value="BinaryReader`0" priority="0" />
+      <Item value="BinaryReader" priority="0" />
+      <Item value="FileMode`0" priority="0" />
+      <Item value="pcFile" priority="1" />
+      <Item value="PCs" priority="1" />
+      <Item value="transFile" priority="2" />
+      <Item value="Int32`0" priority="3" />
+      <Item value="Length" priority="4" />
+      <Item value="pcNum" priority="4" />
+      <Item value="BaseDirectory" priority="0" />
+      <Item value="InputDataPath" priority="0" />
+      <Item value="rows" priority="2" />
+      <Item value="continue" priority="1" />
+      <Item value="allCoefs" priority="7" />
+      <Item value="highways" priority="0" />
+      <Item value="dimensions" priority="2" />
+      <Item value="muFile" priority="0" />
+      <Item value="Constants`0" priority="5" />
+      <Item value="Dictionary&lt;string,PCACoefLoader&gt;" priority="0" />
+      <Item value="sensorDayTable" priority="1" />
+      <Item value="List&lt;int&gt;" priority="1" />
+      <Item value="sensorDayFile" priority="3" />
+      <Item value="line" priority="0" />
+      <Item value="tempList" priority="0" />
+      <Item value="allDaysFile" priority="1" />
+      <Item value="LoadIntegerArray`0" priority="0" />
+      <Item value="allDays" priority="1" />
+      <Item value="allDayFile" priority="0" />
+      <Item value="ContextStaticAttribute`0" priority="0" />
+      <Item value="indexPath" priority="0" />
+      <Item value="sensorTableFile" priority="1" />
+      <Item value="sensorsTableFile" priority="0" />
+      <Item value="sensorTable" priority="0" />
+      <Item value="out" priority="3" />
+      <Item value="sensorIndex" priority="1" />
+      <Item value="utils" priority="1" />
+      <Item value="highway" priority="7" />
+      <Item value="const" priority="0" />
+      <Item value="NO_VALUE" priority="1" />
+      <Item value="loader" priority="5" />
+      <Item value="timeOffset" priority="4" />
+      <Item value="allDaysSize" priority="0" />
+      <Item value="dayIndex" priority="12" />
+      <Item value="realIndex" priority="1" />
+      <Item value="timeIndex" priority="2" />
+      <Item value="count" priority="1" />
+      <Item value="selectedArea" priority="6" />
+      <Item value="sensorStreamForAvgSpeedQuery" priority="0" />
+      <Item value="sensorIdAllAverageClass`0" priority="4" />
+      <Item value="sensorID" priority="0" />
+      <Item value="Average" priority="0" />
+      <Item value="Aver" priority="0" />
+      <Item value="ev2" priority="0" />
+      <Item value="ev1" priority="5" />
+      <Item value="lastKminutesAverages" priority="1" />
+      <Item value="CepOperator" priority="0" />
+      <Item value="List&lt;doubleClass&gt;" priority="0" />
+      <Item value="doubleClass" priority="0" />
+      <Item value="payload" priority="0" />
+      <Item value="GetField1`0" priority="0" />
+      <Item value="tempxxx" priority="0" />
+      <Item value="passThruQuery2" priority="2" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="selectedAreaQuery" priority="0" />
+      <Item value="BindQueryToAnotherQuery`0" priority="1" />
+      <Item value="query1" priority="0" />
+      <Item value="outputAdapter" priority="0" />
+      <Item value="predictionSpeedsOutputConf" priority="0" />
+      <Item value="query3Template" priority="1" />
+      <Item value="selectedAreaQuery2" priority="1" />
+      <Item value="passThruQuery" priority="4" />
+      <Item value="QueryBinder`0" priority="0" />
+      <Item value="tempQT" priority="1" />
+      <Item value="QueryBinder" priority="0" />
+      <Item value="tempBinder" priority="2" />
+      <Item value="passThruStream" priority="1" />
+      <Item value="CepStream`0" priority="0" />
+      <Item value="sensorIds" priority="1" />
+      <Item value="lock" priority="0" />
+      <Item value="lockThis" priority="0" />
+      <Item value="pcaInstance" priority="1" />
+      <Item value="newEelement" priority="0" />
+      <Item value="Buffer`0" priority="0" />
+      <Item value="intervalEvent" priority="1" />
+      <Item value="lastDate" priority="4" />
+      <Item value="IntervalEvent`0" priority="0" />
+      <Item value="lastEvent" priority="4" />
+      <Item value="mostSimilarDayIndex" priority="1" />
+      <Item value="resultElement" priority="1" />
+      <Item value="totalResult" priority="1" />
+      <Item value="sensorsWithValue" priority="1" />
+      <Item value="predictionTime" priority="1" />
+      <Item value="GetTimeIndex`0" priority="0" />
+      <Item value="GetSpeed`0" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="GetLoader`0" priority="3" />
+      <Item value="tempAverage" priority="3" />
+      <Item value="numOfDays" priority="5" />
+      <Item value="tempSensorId" priority="2" />
+      <Item value="key" priority="0" />
+      <Item value="FindAverage`0" priority="0" />
+      <Item value="toList" priority="1" />
+      <Item value="IntervalEvent" priority="0" />
+      <Item value="Math`0" priority="0" />
+      <Item value="distances" priority="2" />
+      <Item value="tempDist" priority="0" />
+      <Item value="NumberOfFoundValues" priority="2" />
+      <Item value="InvalidTimeZoneException`0" priority="0" />
+      <Item value="leastValue" priority="1" />
+      <Item value="XmlSpeedElement`0" priority="1" />
+      <Item value="base" priority="1" />
+      <Item value="startTime" priority="1" />
+      <Item value="Default_For_Unknown" priority="0" />
+      <Item value="TextWriter`0" priority="1" />
+      <Item value="Object`0" priority="3" />
+      <Item value="XmlPredictionSpeedElement`0" priority="1" />
+      <Item value="IComparable`0" priority="0" />
+      <Item value="x" priority="0" />
+      <Item value="TimeComparer`0" priority="0" />
+      <Item value="TimeComparer" priority="0" />
+      <Item value="XmlPointPredictionSpeedOutput`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SocketInputAdapter.SocketInputConfig">
+      <Item value="ServerIP" priority="1" />
+      <Item value="ServerPort" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.IPAddress">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Add`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="Hour" priority="0" />
+      <Item value="Minute" priority="0" />
+      <Item value="Second" priority="0" />
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromTicks`0" priority="2" />
+      <Item value="FromMinutes`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTimeOffset">
+      <Item value="Add`0" priority="1" />
+      <Item value="AddMinutes`0" priority="2" />
+      <Item value="Month" priority="1" />
+      <Item value="Day" priority="1" />
+      <Item value="Hour" priority="1" />
+      <Item value="Minute" priority="1" />
+      <Item value="ToOffset`0" priority="0" />
+      <Item value="DateTime" priority="1" />
+      <Item value="UtcDateTime" priority="3" />
+      <Item value="ToUniversalTime`0" priority="1" />
+      <Item value="ToLocalTime`0" priority="0" />
+      <Item value="LocalDateTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Utils.Utilities">
+      <Item value="KMH2MPH`0" priority="3" />
+      <Item value="GetInstance`0" priority="3" />
+      <Item value="ServerPort" priority="0" />
+      <Item value="IsBetween`0" priority="0" />
+      <Item value="InputDataPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.XmlSensorSpeedElement">
+      <Item value="Speed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.XmlAverageSpeedElement">
+      <Item value="Speed" priority="1" />
+      <Item value="StartTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.ComplexEventProcessing.EventShape">
+      <Item value="Point" priority="0" />
+      <Item value="Interval" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="4" />
+      <Item value="CurrentThread" priority="1" />
+      <Item value="SpinWait`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.Socket">
+      <Item value="Send`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToCharArray`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="Split`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.XmlOutputConfig">
+      <Item value="OutputFieldOrders" priority="0" />
+      <Item value="OutputFileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UDOs.ListOfSensors">
+      <Item value="SetList`0" priority="1" />
+      <Item value="Includes`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Query">
+      <Item value="Start`0" priority="4" />
+      <Item value="Stop`0" priority="1" />
+      <Item value="Delete`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToStream`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="3" />
+      <Item value="Close`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventTypes.TrafficSensorReading">
+      <Item value="HovSpeed" priority="1" />
+      <Item value="SensorId" priority="8" />
+      <Item value="Occupancy" priority="0" />
+      <Item value="Speed" priority="1" />
+      <Item value="Volume" priority="0" />
+      <Item value="LinkDataStatus" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="3" />
+      <Item value="ToArray`0" priority="1" />
+      <Item value="Add`0" priority="6" />
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="Sort`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Max`0" priority="0" />
+      <Item value="Abs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.TcpClient">
+      <Item value="Connect`0" priority="0" />
+      <Item value="Client" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Linq.IKey`1">
+      <Item value="Key" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.Formatters.Binary.BinaryFormatter">
+      <Item value="Deserialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Open" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="1" />
+      <Item value="Keys" priority="1" />
+      <Item value="TryGetValue`0" priority="3" />
+      <Item value="Values" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.ComplexEventProcessing.Server">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Utils.Utilities">
+      <Item value="GetLinksInBetween`0" priority="0" />
+      <Item value="linkLocDic" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="3" />
+      <Item value="TryParse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TrafficApp.Program">
+      <Item value="Main`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.ComplexEventProcessing.StreamEventOrder">
+      <Item value="FullyOrdered" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SIServers.ExplicitServer">
+      <Item value="StopAverageQuery`0" priority="0" />
+      <Item value="StartAverageQuery`0" priority="1" />
+      <Item value="StartQuery3`0" priority="0" />
+      <Item value="outputDirectory" priority="0" />
+      <Item value="SetK`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UDOs.Rectangle">
+      <Item value="upperLeftlat" priority="0" />
+      <Item value="upperLeftLong" priority="0" />
+      <Item value="lowerRightLat" priority="0" />
+      <Item value="lowerRightLong" priority="0" />
+      <Item value="lat2" priority="0" />
+      <Item value="long1" priority="0" />
+      <Item value="long2" priority="0" />
+      <Item value="Lat1" priority="1" />
+      <Item value="Lat2" priority="0" />
+      <Item value="Long1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SqlServer.Types.SqlGeography">
+      <Item value="Point`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.IntervalEvent`1">
+      <Item value="Payload" priority="8" />
+      <Item value="StartTime" priority="18" />
+      <Item value="EndTime" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Utils.SensorInfo">
+      <Item value="Location" priority="1" />
+      <Item value="Long" priority="0" />
+      <Item value="GeogLocation" priority="2" />
+      <Item value="OnStreet" priority="1" />
+      <Item value="Direction" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Linq.CepStream`1">
+      <Item value="AlterEventDuration`1" priority="2" />
+      <Item value="HoppingWindow`1" priority="2" />
+      <Item value="TumblingWindow`1" priority="1" />
+      <Item value="SnapshotWindow`1" priority="2" />
+      <Item value="ToPointEventStream`1" priority="0" />
+      <Item value="ToQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.ComplexEventProcessing.Linq.WindowInputPolicy">
+      <Item value="ClipToWindow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Types.SqlGeography">
+      <Item value="Lat" priority="2" />
+      <Item value="Long" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UDOs.InsideRectangle">
+      <Item value="Rect" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.ComplexEventProcessing.Linq.HoppingWindowOutputPolicy">
+      <Item value="ClipToWindowEnd" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Linq.CepWindow`1">
+      <Item value="Avg`1" priority="2" />
+      <Item value="InsideRect`0" priority="1" />
+      <Item value="HistoricAverage`0" priority="1" />
+      <Item value="Predict`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Types.SqlGeometry">
+      <Item value="STX" priority="1" />
+      <Item value="STY" priority="0" />
+      <Item value="STWithin`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+KeyCollection">
+      <Item value="Contains`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="First`1" priority="4" />
+      <Item value="GetEnumerator`0" priority="0" />
+      <Item value="Count`1" priority="2" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="Last`1" priority="1" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerator`1">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ADMS.PCA">
+      <Item value="GetInstance`0" priority="5" />
+      <Item value="instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UDOs.WeightedAverage">
+      <Item value="ProcessedAvg`0" priority="0" />
+      <Item value="HistoricWeight" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.ComplexEventProcessing.Linq.SnapshotWindowOutputPolicy">
+      <Item value="Clip" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventTypes.AverageSpeed">
+      <Item value="Speed" priority="1" />
+      <Item value="StartTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.Application">
+      <Item value="CreateQueryTemplate`1" priority="0" />
+      <Item value="CreateQuery`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventTypes.doubleClass">
+      <Item value="Speed" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextReader">
+      <Item value="ReadToEnd`0" priority="2" />
+      <Item value="Close`0" priority="4" />
+      <Item value="ReadLine`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlTypes.SqlBoolean">
+      <Item value="IsTrue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.SqlTypes.SqlBoolean">
+      <Item value="False" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlTypes.SqlDouble">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="CurrentDomain" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.AppDomain">
+      <Item value="BaseDirectory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="Combine`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="ReadAllText`0" priority="0" />
+      <Item value="OpenText`0" priority="0" />
+      <Item value="OpenRead`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.BinaryReader">
+      <Item value="ReadDouble`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Utils.Constants">
+      <Item value="GetPreprocessedTableString`0" priority="0" />
+      <Item value="GetMuString`0" priority="0" />
+      <Item value="GetTransFormedDataString`0" priority="0" />
+      <Item value="PcaCoefPath" priority="0" />
+      <Item value="PcaIndecesPath" priority="0" />
+      <Item value="GetSensorDaysString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ADMS.PCACoefLoader">
+      <Item value="GetSpeed`0" priority="0" />
+      <Item value="RetData`0" priority="0" />
+      <Item value="GetNumOfDays`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ADMS.PCA">
+      <Item value="Historic`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ADMS.PCACoefLoader">
+      <Item value="NO_VALUE" priority="2" />
+      <Item value="GetTimeIndex`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.QueryBinder">
+      <Item value="BindProducer`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.ComplexEventProcessing.Linq.CepStream`1">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.ComplexEventProcessing.PointEvent">
+      <Item value="GetField`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+ValueCollection">
+      <Item value="GetEnumerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+ValueCollection+Enumerator">
+      <Item value="MoveNext`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="Write`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XMLOutputAdapter.XmlPredictionSpeedElement">
+      <Item value="StartTime" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

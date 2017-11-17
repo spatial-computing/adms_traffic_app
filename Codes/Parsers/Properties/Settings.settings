@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Parsers.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Parsers_CongestionService1_CongestionServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://rtsiai01.riits.net/IAI/services/IAI_CongestionService</Value>
+    </Setting>
+    <Setting Name="Parsers_IAI_EventService_EventServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://rtsiai01.riits.net/IAI/services/IAI_EventService</Value>
+    </Setting>
+    <Setting Name="Parsers_RailService1_RailServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://rtsiai01.riits.net/IAI/services/IAI_RailService</Value>
+    </Setting>
+    <Setting Name="Parsers_TravelTimeService1_TravelTimesServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://rtsiai01.riits.net/IAI/services/IAI_TravelTimeService</Value>
+    </Setting>
+    <Setting Name="Parsers_BusService1_BusServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://rtsiai01.riits.net/IAI/services/IAI_BusService</Value>
+    </Setting>
+    <Setting Name="Parsers_RampService_RmsServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://rtsiai01.riits.net/IAI/services/IAI_RmsService</Value>
+    </Setting>
+    <Setting Name="Parsers_CmsServiceService_CmsServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://rtsiai01.riits.net/IAI/services/IAI_CmsService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,72 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 04/09/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Xml;
+using EventTypes;
+
+namespace Parsers
+{
+    public abstract class EventParser : BaseFileParser
+    {
+        protected CultureInfo _culture;
+        protected int _9227 = 0, _9220 = 0, _9228 = 0, _9290 = 0;
+        protected int fatalityCount = 0, possibleInjCount = 0;
+        protected int MaxContentLength = 2000;
+
+        public EventParser(string agency,CultureInfo _culture) : base(agency, "events", SourceDataType.Event.ToString())
+        {
+            expectedFieldNum = 49;
+            this._culture = _culture;
+        }
+
+        protected void PopulateInjury(string tempInj, string cnt)
+        {
+            int count=0;
+            Int32.TryParse(cnt,out count);
+            if (tempInj.CompareTo("fatality") == 0)
+                fatalityCount = count;
+            else if (tempInj.CompareTo("possible injury") == 0)
+            {
+                possibleInjCount = count;
+            }
+            else
+            {
+                //todo: error message in the log. no such injury type is known in the system.
+            }
+        }
+
+        protected void PopulateVehicleType(string tempType, string tempCnt)
+        {
+            int count = 0;
+                Int32.TryParse(tempCnt, out count);
+            switch (tempType)
+            {
+                case "9227":
+                    _9227 = count;
+                    break;
+                case "9228":
+                    _9228 = count;
+                    break;
+                case "9220":
+                    _9220 = count;
+                    break;
+                case "9290":
+                    _9290 = count;
+                    break;
+            }
+        }
+
+        public abstract string FetchData();
+    }
+}
+
+    
+

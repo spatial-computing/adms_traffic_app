@@ -1,0 +1,93 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 03/22/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using EventTypes;
+using OutputTypes;
+using Parsers;
+using Utils;
+
+namespace MyMemory
+{
+    public abstract class LookupFreeway : LookupTable<FreewaySensorSpeedOutputElement>
+    {
+        private static BootUp memory = BootUp.GetInstance();
+
+        protected abstract Object GetFields(Sensor sensor, FreewaySensorSpeedOutputElement ev);
+        public override Object GetRecord(FreewaySensorSpeedOutputElement ev, string agency)
+        {
+            Sensor sensor = new Sensor(agency, ev.SensorId, 0, 0, "", -1, "");
+
+            //Sensor sensor = memory.GetFreewaySensInfo(ev.SensorId);
+            //if (sensor == null)
+            //    return null;
+
+            var values = GetFields(sensor, ev);
+
+            return values;
+        }
+
+    }
+    public class LookupFreewayXML : LookupFreeway
+    {
+
+        protected override Object GetFields(Sensor sensor, FreewaySensorSpeedOutputElement ev)
+        {
+            return new List<Object>
+                                 {
+                                     (int) Utilities.KMH2MPH(ev.Speed),
+                                     sensor.GeogLocation.Lat,
+                                     sensor.GeogLocation.Long,
+                                     sensor.OnStreet,
+                                     sensor.Direction,
+                                     sensor.FromStreet,
+                                     ev.Hovspeed,
+                                     ev.Occupancy,
+                                     ev.Volume,
+                                     ev.StartTime.ToString("MMM-dd-yyyy HH:mm:ss")
+                                 };
+        }
+    }
+    public class LookUpFreewayDB : LookupFreeway
+    {
+        protected override Object GetFields(Sensor sensor, FreewaySensorSpeedOutputElement ev)
+        {
+            return new List<Object>
+                                 {
+                                     BootUp.maxFreewayConfigID,//ev.ConfigId,
+                                     ev.SensorId,
+                                     (int) Utilities.KMH2MPH(ev.Speed),
+                                     //sensor.GeogLocation.Lat,
+                                     //sensor.GeogLocation.Long,
+                                    ev.StartTime.LocalDateTime.ToString("yyyyMMdd HH:mm:ss"),
+                                    (int) Utilities.KMH2MPH(ev.Hovspeed),
+                                    //Commented by Keivan   ev.Hovspeed,
+                                    ev.Occupancy,
+                                    ev.Volume,
+                                    ev.Link_Status//,
+                                    //sensor.Direction, 
+                                    //sensor.OnStreet,
+                                    // sensor.FromStreet
+                                    //sensor.Agency
+                                 };
+        }
+
+
+    }
+
+    public class LookUpFreewayAzureTable : LookupFreeway
+    {
+        protected override object GetFields(Sensor sensor, FreewaySensorSpeedOutputElement ev)
+        {
+            //return new FreewaySensorEntityTuple(sensor, ev);
+            return new SensorEntityTuple(sensor, ev);
+        }
+        }
+    }
+

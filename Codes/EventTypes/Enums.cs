@@ -1,0 +1,43 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 03/22/2011
+ */
+
+/**
+ * Updated by Bei (Penny) Pan (beipan@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Updated the datatype
+ * Date: 04/18/2011
+ */
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace EventTypes
+{
+    public enum SourceDataType
+    {
+        Freeway,
+        Arterial,
+        TravelTime,
+        Ramp,
+        Bus,
+        Rail,
+        Event,
+        Cms
+    } ;
+
+    public enum OutputMessageType
+    {
+        XML, DB, TableStorage, Oracle
+    } ;
+
+    public enum OutputMediaType
+    {
+        File, LocalDB, SQLAzure, AzureTable, Oracle
+    } ;
+}

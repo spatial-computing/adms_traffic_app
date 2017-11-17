@@ -1,0 +1,121 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 03/22/2011
+ */
+
+/**
+ * Updated by Bei (Penny) Pan (beipan@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Change the AllFieldsEqual Function 
+ * Date: 04/18/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using Microsoft.SqlServer.Types;
+
+namespace Parsers
+{
+    public class Sensor 
+    {
+         public Sensor(string agency, int id, double latitude, double longitude, String OST, int direction, String FST)
+        {
+            ID = id;
+            GeogLocation = SqlGeography.Point(latitude, longitude, SRID);
+            Agency = agency;
+            OnStreet = OST;
+            FromStreet = FST;
+            Direction = direction;
+            
+        }
+
+        public Sensor(string agency, List<string> record)
+        {
+            Agency = agency;
+            ID = Int32.Parse(record[0]);
+            OnStreet = record[1];
+            FromStreet = record[2];
+            ToStreet = record[3];
+            int decimalPoints = 6;
+
+            double lat = Double.Parse(record[4])/(Math.Pow(10, decimalPoints));
+            double lng = Double.Parse(record[5])/(Math.Pow(10, decimalPoints));
+            Direction = Int32.Parse(record[6]);
+
+            GeogLocation = SqlGeography.Point(lat, lng, SRID);
+            City = record[7];
+            PostMile = Double.Parse(record[8]);
+            var affectedLanes = new List<AffectedLane>();
+            for (int i = 9; i < record.Count; i = i + 2)
+            {
+                var temp = new AffectedLane(Int32.Parse(record[i]), record[i + 1]);
+                affectedLanes.Add(temp);
+            }
+            AffectedLanes = affectedLanes;
+        }
+
+        public bool AllFieldsEqual(Sensor second)
+        {
+            bool result = false;
+            /*
+            // Just for test purpose
+            if (ID != second.ID)
+            {
+                int a = 0;
+            }
+            if (OnStreet != second.OnStreet)
+            {
+                int a = 0;
+            }
+            if (FromStreet != second.FromStreet)
+            {
+                int a = 0;
+            }
+            if (ToStreet != second.ToStreet)
+            {
+                int a = 0;
+            }
+            if (Direction != second.Direction)
+            {
+                int a = 0;
+            }
+            if (GeogLocation != second.GeogLocation)
+            {
+                int a = 0;
+            }
+            if (PostMile != second.PostMile)
+            {
+                int a = 0;
+            }*/
+            result = ID == second.ID && OnStreet == second.OnStreet && FromStreet == second.FromStreet && ToStreet == second.ToStreet && Direction == second.Direction && 
+                (bool)(GeogLocation.Lat == second.GeogLocation.Lat) && (bool)(GeogLocation.Long == second.GeogLocation.Long);// &&
+                //PostMile == second.PostMile; //&& this.City == second.City &&//this.AffectedLanes.Equals(second.AffectedLanes) //todo: affectedlanes should be tested.
+            return result;
+        }
+
+        protected const int SRID = 4326;
+        public int ID { get; set; }
+        public SqlGeography GeogLocation { get; set; }
+        public String OnStreet { get; set; }
+        public int Direction { get; set; }
+        public String FromStreet { get; set; }
+        public String ToStreet { get; set; }
+        public double PostMile { get; set; }
+        public String City { get; set; }
+        public List<AffectedLane> AffectedLanes { get; set; }
+        private String Type { get; set; }
+        public String Agency { get; set; }
+    }
+    public class AffectedLane
+    {
+        public AffectedLane(int cnt, String type)
+        {
+            LaneCnt = cnt;
+            Type = type;
+        }
+
+        public int LaneCnt { get; set; }
+        public String Type { get; set; }
+    }
+}

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/mta/!svn/ver/1/WSDLInputAdapters
+END
+RawDataPointInputAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mta/!svn/ver/1/WSDLInputAdapters/RawDataPointInputAdapter.cs
+END
+WSDLInputAdapters.cd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mta/!svn/ver/1/WSDLInputAdapters/WSDLInputAdapters.cd
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mta/!svn/ver/1/WSDLInputAdapters/app.config
+END
+WSDLInputFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mta/!svn/ver/1/WSDLInputAdapters/WSDLInputFactory.cs
+END
+WSDLPointInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mta/!svn/ver/1/WSDLInputAdapters/WSDLPointInput.cs
+END
+WSDLInputAdapters.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mta/!svn/ver/1/WSDLInputAdapters/WSDLInputAdapters.csproj
+END

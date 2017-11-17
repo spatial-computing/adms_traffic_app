@@ -1,0 +1,181 @@
+﻿/**
+ * Created by Seyed Kazemitabar (kazemita@usc.edu) 
+ * at Integrated Media Systems Center (IMSC), University of Southern California.
+ * Date: 03/22/2011
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using Microsoft.ComplexEventProcessing;
+using Microsoft.ComplexEventProcessing.Adapters;
+using Parsers;
+using System.IO;
+
+
+namespace BaseTrafficInputAdapters
+{
+    public abstract class RIITSPointInputAdapter : PointInputAdapter
+    {
+        protected readonly CepEventType _bindtimeEventType;
+        protected readonly CultureInfo _culture;
+        protected readonly Dictionary<int, int> _inputOrdinalToCepOrdinal;
+        protected int _eventsEnqueued;
+        protected DateTimeOffset? _pendingCtiTime;
+        protected PointEvent _pendingEvent;
+        protected bool justReceived;
+        protected DateTime packetDataTime;
+        protected BaseFileParser parser;
+        protected int fetchFrequency;
+        public RIITSPointInputAdapter(RIITSInputConfig configInfo, CepEventType cepEventType)
+        {
+            _bindtimeEventType = cepEventType;
+            _culture = new CultureInfo(configInfo.CultureName);
+            _inputOrdinalToCepOrdinal = new Dictionary<int, int>();
+            parser = ParserFactory.Create(configInfo.inputDataType, configInfo.inputInterpretationType, configInfo.RIITSAgency, _culture);
+            PopulatePayloadFields(configInfo, cepEventType);
+            fetchFrequency = configInfo.InputFetchFreq;
+        }
+
+
+        private void PopulatePayloadFields(RIITSInputConfig configInfo, CepEventType cepEventType)
+        {
+            if (configInfo.InputFieldOrders != null && configInfo.InputFieldOrders.Count != cepEventType.Fields.Count)
+            {
+                throw new ArgumentException(
+                    string.Format(CultureInfo.InvariantCulture,
+                                  "The configuration element InputFieldOrders should have {0} elements, but it only has {1} elements",
+                                  cepEventType.Fields.Count,
+                                  configInfo.InputFieldOrders.Count));
+            }
+            CepEventTypeField engineField;
+            for (int i = 0; i < cepEventType.Fields.Count; i++)
+            {
+                if (configInfo.InputFieldOrders != null)
+                {
+                    if (!cepEventType.Fields.TryGetValue(configInfo.InputFieldOrders[i], out engineField))
+                    {
+                        throw new ArgumentException(
+                            string.Format(CultureInfo.InvariantCulture,
+                                          "Event type {0} doesn't have an input field named '{1}'",
+                                          cepEventType.ShortName, configInfo.InputFieldOrders[i]));
+                    }
+
+                    _inputOrdinalToCepOrdinal.Add(i, engineField.Ordinal);
+                }
+                else
+                {
+                    // Use default mapping
+                    _inputOrdinalToCepOrdinal.Add(i, i);
+                }
+            }
+        }
+
+        protected PointEvent ConvertRecordToEvent(List<string> fields)
+        {
+            // string[] split = line.Split(new char[] { _delimiter }, StringSplitOptions.RemoveEmptyEntries);
+
+            if (_bindtimeEventType.Fields.Count != (fields.Count))
+            {
+                Console.WriteLine("Number of payload columns in input file: " + fields.Count +
+                                  ", does not match number of fields in EventType: " + _bindtimeEventType.Fields.Count);
+                throw new ArgumentException("Number of payload columns in input file: " + fields.Count +
+                                  ", does not match number of fields in EventType: " + _bindtimeEventType.Fields.Count);
+            }
+
+            PointEvent evt = CreateInsertEvent();
+
+            evt.StartTime = packetDataTime;
+            //  DateTime.Parse(split[0], _culture, DateTimeStyles.AssumeUniversal).ToUniversalTime();
+
+            // populate the payload fields
+            for (int ordinal = 0; ordinal < _bindtimeEventType.FieldsByOrdinal.Count; ordinal++)
+            {
+                CepEventTypeField evtField = null;
+                object value = null;
+                int cepOrdinal = -1;
+                try
+                {
+                    cepOrdinal = _inputOrdinalToCepOrdinal[ordinal];
+                    
+                    evtField = _bindtimeEventType.FieldsByOrdinal[cepOrdinal];
+
+                    value = Convert.ChangeType(fields[ordinal], evtField.Type.ClrType, _culture);
+                    evt.SetField(cepOrdinal, value);
+                }
+                    catch(FormatException e)
+                    {
+                        if( evtField.Type.ClrType == typeof (Int32 ) && fields[ordinal]== "")
+                        {
+                            value = 0;
+                            evt.SetField(cepOrdinal, 0);
+                        }
+
+
+
+                    }
+                catch (AdapterException e)
+                {
+                    Console.WriteLine(e.Message + e.StackTrace);
+                    StreamWriter tempWriter = new StreamWriter("RIITSPointInputAdapter.txt", true);
+                    tempWriter.WriteLine(DateTime.Now.ToString() + e.Message);
+                    tempWriter.Close();
+                }
+            }
+
+            return evt;
+        }
+
+
+        protected void PrepareToStop(PointEvent currEvent)
+        {
+            if (null != currEvent)
+            {
+                ReleaseEvent(ref currEvent);
+            }
+        }
+
+        /// <summary>
+        /// See notes on the Resume() method in TextFilePointInput.cs
+        /// </summary>
+        public override void Resume()
+        {
+            ProduceEvents();
+        }
+
+        protected void PrepareToResume(PointEvent currEvent)
+        {
+            _pendingEvent = currEvent;
+        }
+
+        protected void PrepareToResume(DateTimeOffset currCtiTime)
+        {
+            _pendingCtiTime = currCtiTime;
+        }
+
+        protected bool jjEnqueueCTI(DateTimeOffset value)
+        {
+            EnqueueOperationResult result;
+            result = EnqueueCtiEvent(value);
+            if (EnqueueOperationResult.Full == result)
+            {
+                PrepareToResume(value); //_pendingCtiTime.Value
+                Ready();
+                return true;
+            }
+            else
+            {
+                // there is no Cti event pending
+                _pendingCtiTime = null;
+                return false;
+            }
+        }
+
+        public override void Start()
+        {
+            ProduceEvents();
+        }
+
+        protected abstract void ProduceEvents();
+    }
+}

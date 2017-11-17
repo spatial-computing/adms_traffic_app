@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{510DF9CD-6D49-4F83-9D0B-A37B7472933E}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebApplication1</RootNamespace>
+    <AssemblyName>WebApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ajax, Version=5.7.22.2, Culture=neutral" />
+    <Reference Include="Microsoft.ComplexEventProcessing, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft StreamInsight 1.0\Bin\Microsoft.ComplexEventProcessing.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BingMap.aspx.cs">
+      <DependentUpon>BingMap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BingMap.aspx.designer.cs">
+      <DependentUpon>BingMap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BingMap.aspx" />
+    <Content Include="data\xml\line2.xml" />
+    <Content Include="data\xml\vol_cap.xml" />
+    <Content Include="GeoInsight.html" />
+    <Content Include="GeoInsight.swf" />
+    <Content Include="history\history.css" />
+    <Content Include="history\history.js" />
+    <Content Include="history\historyFrame.html" />
+    <Content Include="images\._diagLegend.png" />
+    <Content Include="images\._dining_icon.png" />
+    <Content Include="images\._dmarker.png" />
+    <Content Include="images\._hospital_icon.png" />
+    <Content Include="images\._logo.png" />
+    <Content Include="images\._menuIcons.png" />
+    <Content Include="images\._parking_icon.png" />
+    <Content Include="images\._phone.png" />
+    <Content Include="images\._queryIcons.png" />
+    <Content Include="images\._queryTab.png" />
+    <Content Include="images\._rular.png" />
+    <Content Include="images\._ship_icon.png" />
+    <Content Include="images\._shopping_icon.png" />
+    <Content Include="images\._simSubItem.png" />
+    <Content Include="images\._thumbs.png" />
+    <Content Include="images\._top-right.png" />
+    <Content Include="images\._top.png" />
+    <Content Include="images\._trafficTab.png" />
+    <Content Include="images\._tram_icon.png" />
+    <Content Include="images\._vehicleMonitor.png" />
+    <Content Include="images\accident_moderate.gif" />
+    <Content Include="images\accident_severe.gif" />
+    <Content Include="images\background.gif" />
+    <Content Include="images\brown12.png" />
+    <Content Include="images\caricon.png" />
+    <Content Include="images\caricon_parixit.png" />
+    <Content Include="images\construction.gif" />
+    <Content Include="images\cyan1.ico" />
+    <Content Include="images\cyansph1.png" />
+    <Content Include="images\cynasph1.png" />
+    <Content Include="images\diagLegend.png" />
+    <Content Include="images\dining_icon.png" />
+    <Content Include="images\dmarker.png" />
+    <Content Include="images\dmarker1.png" />
+    <Content Include="images\edit.gif" />
+    <Content Include="images\footstamp.GIF" />
+    <Content Include="images\footstamp.JPG" />
+    <Content Include="images\green1.ico" />
+    <Content Include="images\green1.png" />
+    <Content Include="images\green12.png" />
+    <Content Include="images\green13.png" />
+    <Content Include="images\green2.ico" />
+    <Content Include="images\green2.png" />
+    <Content Include="images\green22.png" />
+    <Content Include="images\green23.png" />
+    <Content Include="images\greensph.png" />
+    <Content Include="images\greensph1.png" />
+    <Content Include="images\greensph2.png" />
+    <Content Include="images\hide-show-btn.gif" />
+    <Content Include="images\hospital_icon.png" />
+    <Content Include="images\images.jpg" />
+    <Content Include="images\jeff.jpg" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\menuIcons.png" />
+    <Content Include="images\mm_20_green.png" />
+    <Content Include="images\mm_20_red.png" />
+    <Content Include="images\orange1.png" />
+    <Content Include="images\orange12.png" />
+    <Content Include="images\orange13.png" />
+    <Content Include="images\orangesph1.png" />
+    <Content Include="images\parking_icon.png" />
+    <Content Include="images\phone.jpg" />
+    <Content Include="images\phone.png" />
+    <Content Include="images\phone2.jpg" />
+    <Content Include="images\queryIcons.png" />
+    <Content Include="images\queryTab.png" />
+    <Content Include="images\red1.ico" />
+    <Content Include="images\red1.png" />
+    <Content Include="images\red12.png" />
+    <Content Include="images\red13.png" />
+    <Content Include="images\red2.png" />
+    <Content Include="images\redsph1.png" />
+    <Content Include="images\rem.png" />
+    <Content Include="images\rular.png" />
+    <Content Include="images\ship_icon.png" />
+    <Content Include="images\shopping_icon.png" />
+    <Content Include="images\simSubItem.png" />
+    <Content Include="images\speed.png" />
+    <Content Include="images\thumbs.png" />
+    <Content Include="images\top-right.png" />
+    <Content Include="images\top.png" />
+    <Content Include="images\trafficTab.png" />
+    <Content Include="images\tram_icon.png" />
+    <Content Include="images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="images\ui-bg_glass_75_ffffff_1x400.png" />
+    <Content Include="images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="images\ui-bg_inset-soft_95_fef1ec_1x100.png" />
+    <Content Include="images\ui-icons_222222_256x240.png" />
+    <Content Include="images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="images\ui-icons_454545_256x240.png" />
+    <Content Include="images\ui-icons_888888_256x240.png" />
+    <Content Include="images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="images\vehicleMonitor.png" />
+    <Content Include="images\vista-video.png" />
+    <Content Include="style.css" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="data\.DS_Store" />
+    <None Include="data\xml\.DS_Store" />
+    <None Include="images\.DS_Store" />
+    <None Include="osmf_flex.4.0.0.13495.swz" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Server\SIServers.csproj">
+      <Project>{AC380DBF-DCBD-4F20-9F10-09A7ADD5BA32}</Project>
+      <Name>SIServers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TrafficApp\TrafficApp.csproj">
+      <Project>{0A66F943-9756-4995-8EE7-8159CF8A3CEF}</Project>
+      <Name>TrafficApp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UDOs\UDOs.csproj">
+      <Project>{DB854CCA-2A72-4D77-B565-EC456557B443}</Project>
+      <Name>UDOs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utils\Utils.csproj">
+      <Project>{DF182443-0852-4CAB-9389-79E93374FA33}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="data\xml\Arterial\" />
+    <Folder Include="data\xml\Highway\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53629</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

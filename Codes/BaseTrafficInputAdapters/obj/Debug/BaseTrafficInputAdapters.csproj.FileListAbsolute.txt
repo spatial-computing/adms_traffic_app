@@ -1,0 +1,75 @@
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\BaseTrafficInputAdapters\bin\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\BaseTrafficInputAdapters\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\BaseTrafficInputAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Mohamed\DemoV3\VLDB 2010 Demo\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\BaseTrafficInputAdapters\bin\Debug\Parsers.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\BaseTrafficInputAdapters\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\BaseTrafficInputAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Desktop\VLDB 2010 Demo\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\BaseTrafficInputAdapters\bin\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\BaseTrafficInputAdapters\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\BaseTrafficInputAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\ADMS\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\BaseTrafficInputAdapters\bin\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\BaseTrafficInputAdapters\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\BaseTrafficInputAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\Final Colin\ADMS\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\BaseTrafficInputAdapters\bin\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\BaseTrafficInputAdapters\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\BaseTrafficInputAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\temp\ADMS\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\BaseTrafficInputAdapters\bin\Debug\Parsers.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\BaseTrafficInputAdapters\bin\Debug\Parsers.pdb
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\BaseTrafficInputAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.dll
+C:\Users\Jalal\Documents\My Dropbox\C# projects\updated jj\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\bin\Debug\Parsers.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\bin\Debug\Parsers.pdb
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\obj\Debug\ResolveAssemblyReference.cache
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.dll
+D:\StreamInsight_Spring2011\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\bin\Debug\Parsers.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\bin\Debug\Parsers.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_13\Penny_jj_integrated_4_13\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\BaseTrafficInputAdapters\bin\Debug\Parsers.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\BaseTrafficInputAdapters\bin\Debug\Parsers.pdb
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\BaseTrafficInputAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.dll
+C:\Users\StreamInsight\Desktop\Penny_jj_integrated_4_25\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.dll
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\bin\Debug\BaseTrafficInputAdapters.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\bin\Debug\ExceptionReporter.dll
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\bin\Debug\Parsers.dll
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\bin\Debug\EventTypes.dll
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\bin\Debug\ExceptionReporter.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\bin\Debug\Parsers.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\bin\Debug\EventTypes.pdb
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.dll
+C:\Users\StreamInsight\Desktop\mta_svn\BaseTrafficInputAdapters\obj\Debug\BaseTrafficInputAdapters.pdb
